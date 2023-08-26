@@ -1,0 +1,247 @@
+Id,Condition,Type,Subtype,Bedrooms,Bathrooms,AreaNet,AreaGross,ParkingSpots,Area,Price
+101,Used,Homes,Apartment,3,1,76,152,0,Olivais,198000
+102,Used,Homes,Duplex,5,3,190,380,0,Alcantara,1270000
+103,Used,Homes,Apartment,1,1,26,52,0,Estrela,140000
+104,Used,Homes,Apartment,5,4,185,370,0,'Sao Domingos de Benfica',995000
+105,Used,Homes,Apartment,7,1,150,300,0,Arroios,570000
+106,Used,Homes,Apartment,3,2,95,190,0,Belem,425000
+107,Used,Homes,Apartment,3,1,76,152,0,Marvila,130000
+108,Used,Homes,Apartment,3,1,81,162,0,'Sao Domingos de Benfica',215000
+109,Used,Homes,Apartment,2,1,58,116,0,Olivais,196000
+110,Used,Homes,Apartment,5,3,286,572,0,Lumiar,925000
+111,Used,Homes,Apartment,2,1,68,136,0,Marvila,170000
+112,Used,Homes,Apartment,3,2,97,194,0,Belem,440000
+113,Used,Homes,Apartment,2,2,72,144,0,'Santa Maria Maior',235000
+114,Used,Homes,Apartment,3,2,120,240,0,'Parque das Nacoes',565000
+115,Used,Homes,Apartment,1,1,65,130,0,'Santa Clara',217000
+116,Used,Homes,Apartment,4,2,137,274,0,Alvalade,450000
+117,Used,Homes,Apartment,1,1,63,126,0,Campolide,115000
+118,Used,Homes,Apartment,2,1,70,140,0,Misericordia,490000
+119,Used,Homes,Apartment,3,2,101,202,0,Lumiar,350000
+120,Used,Homes,Apartment,2,1,56,112,0,'Santa Clara',178000
+121,Used,Homes,Apartment,3,2,90,180,0,Benfica,249000
+122,Used,Homes,Apartment,2,1,66,132,0,'Santa Maria Maior',155000
+123,Used,Homes,Apartment,4,2,158,316,0,'Santa Maria Maior',1350000
+124,Used,Homes,Apartment,1,1,78,156,0,'Penha de Franca',199900
+125,Used,Homes,Apartment,4,2,117,234,0,Arroios,450000
+126,Used,Homes,Apartment,3,1,100,200,0,Arroios,390000
+127,Used,Homes,Apartment,3,3,153,306,0,'Parque das Nacoes',660000
+128,Used,Homes,Apartment,2,2,76,152,0,Benfica,275000
+129,Used,Homes,Apartment,4,2,110,220,0,'Penha de Franca',320000
+130,Used,Homes,Apartment,1,1,60,120,0,Estrela,110000
+131,Used,Homes,Apartment,2,1,60,120,0,Estrela,179000
+132,Used,Homes,Apartment,1,1,30,60,0,Estrela,125000
+133,Used,Homes,Apartment,2,1,60,120,0,Estrela,179000
+134,Used,Homes,Apartment,2,1,50,100,0,Estrela,168000
+135,Used,Homes,Apartment,2,1,68,136,0,Marvila,125000
+136,Used,Homes,Apartment,3,1,100,200,0,Lumiar,375000
+137,Used,Homes,Apartment,2,1,64,128,0,Misericordia,190000
+138,Used,Homes,Apartment,1,1,29,58,0,'Sao Vicente',85000
+139,Used,Homes,Apartment,1,1,29,58,0,'Sao Vicente',90000
+140,Used,Homes,Apartment,4,1,110,220,0,Arroios,325000
+141,Used,Homes,Apartment,4,2,109,218,0,Lumiar,300000
+142,Used,Homes,Apartment,3,1,79,158,0,Campolide,390000
+143,Used,Homes,Apartment,3,2,130,260,0,'Avenidas Novas',750000
+144,Used,Homes,Apartment,8,6,299,598,0,'Avenidas Novas',1700000
+145,Used,Homes,Apartment,2,1,68,136,0,Arroios,295000
+146,Used,Homes,Apartment,2,1,61,122,0,'Penha de Franca',213500
+147,Used,Homes,Apartment,3,3,195,390,0,Campolide,875000
+148,Used,Homes,Apartment,3,1,105,210,0,Alvalade,350000
+149,Used,Homes,Apartment,1,1,57,114,0,Misericordia,295000
+150,Used,'Single Habitation',Dwelling,5,3,190,380,0,Olivais,850000
+151,Used,'Single Habitation','Isolated Villa',11,6,573,1146,0,Alvalade,1750000
+156,New,Homes,Penthouse,3,3,230,460,0,'Avenidas Novas',1375000
+157,New,Homes,Apartment,1,1,38,76,0,'Santa Maria Maior',350000
+158,New,Homes,Apartment,1,1,32,64,0,'Santa Maria Maior',255000
+159,New,Homes,Apartment,1,1,48,96,0,'Santa Maria Maior',355000
+160,New,Homes,Duplex,1,1,41,82,0,'Penha de Franca',295000
+161,New,Homes,Apartment,2,2,111,222,2,'Campo de Ourique',778000
+162,New,Homes,Apartment,2,2,87,174,2,'Campo de Ourique',665000
+163,New,Homes,Apartment,2,2,87,174,2,'Campo de Ourique',665000
+164,New,Homes,Apartment,2,2,93,186,2,'Campo de Ourique',705000
+165,New,Homes,Apartment,2,2,82,164,2,'Campo de Ourique',627000
+166,New,Homes,Apartment,2,2,80,160,2,'Campo de Ourique',598000
+167,New,Homes,Apartment,2,2,69,138,2,'Campo de Ourique',515000
+168,New,Homes,Apartment,2,2,69,138,2,'Campo de Ourique',515000
+169,New,Homes,Apartment,1,1,47,94,1,'Campo de Ourique',349000
+170,New,Homes,Apartment,1,1,47,94,1,'Campo de Ourique',349000
+171,New,Homes,Apartment,1,1,48,96,1,'Campo de Ourique',365000
+172,New,Homes,Apartment,1,1,50,100,0,'Santo Antonio',275000
+173,New,Homes,Apartment,2,2,93,186,2,'Campo de Ourique',705000
+174,New,Homes,Apartment,1,1,41,82,1,'Campo de Ourique',315000
+175,New,Homes,Apartment,1,1,47,94,1,'Campo de Ourique',349000
+176,New,Homes,Apartment,1,1,48,96,1,'Campo de Ourique',365000
+177,New,Homes,Apartment,1,1,41,82,1,'Campo de Ourique',315000
+178,New,Homes,Apartment,1,1,48,96,1,'Campo de Ourique',365000
+179,New,Homes,Apartment,2,2,80,160,2,'Campo de Ourique',598000
+180,New,Homes,Apartment,3,3,121,242,2,'Campo de Ourique',892000
+181,New,Homes,Apartment,2,2,82,164,2,'Campo de Ourique',627000
+182,New,Homes,Apartment,3,3,152,304,3,'Campo de Ourique',1100000
+183,New,Homes,Apartment,3,3,152,304,1,Belem,910000
+184,New,Homes,Apartment,3,3,157,314,1,Belem,910000
+185,New,Homes,Apartment,3,4,176,352,0,Belem,1350000
+186,New,Homes,Apartment,2,2,80,160,0,Arroios,745000
+187,New,Homes,Apartment,1,1,95,190,0,'Sao Vicente',349000
+188,New,Homes,Apartment,0,1,52,104,0,Marvila,285000
+189,New,Homes,Apartment,2,1,139,278,0,Marvila,715000
+190,New,Homes,Apartment,3,3,204,408,0,Marvila,950000
+191,New,Homes,Apartment,2,1,145,290,0,Marvila,740000
+192,New,Homes,Apartment,3,3,227,454,0,Marvila,960000
+193,New,Homes,Apartment,3,3,174,348,0,Marvila,1000000
+194,New,Homes,Apartment,3,3,139,278,0,Marvila,810000
+195,New,Homes,Apartment,3,3,202,404,0,Marvila,1030000
+196,New,Homes,Apartment,3,3,202,404,0,Marvila,825000
+197,New,Homes,Apartment,3,3,193,386,0,Marvila,995000
+198,New,Homes,Apartment,3,3,161,322,0,Marvila,805000
+199,New,Homes,Apartment,3,3,195,390,0,Marvila,970000
+200,New,Homes,Apartment,3,3,195,390,0,Marvila,990000
+201,New,Homes,Apartment,3,3,227,454,0,Marvila,960000
+202,New,Homes,Apartment,3,3,217,434,0,Marvila,835000
+203,New,Homes,Apartment,3,3,161,322,0,Marvila,805000
+204,New,Homes,Apartment,4,4,273,546,0,Marvila,1300000
+205,New,Homes,Apartment,4,4,223,446,0,Marvila,1250000
+206,New,Homes,Apartment,3,3,180,360,0,Marvila,975000
+207,New,Homes,Apartment,2,2,140,280,0,Marvila,785000
+208,New,Homes,Apartment,2,3,76,152,0,'Sao Vicente',659000
+209,New,Homes,Apartment,3,2,206,412,0,Marvila,920000
+210,New,Homes,Apartment,1,1,79,158,0,Marvila,500000
+211,New,Homes,Apartment,1,1,79,158,0,Marvila,510000
+212,New,Homes,Apartment,1,1,76,152,0,Marvila,515000
+213,New,Homes,Apartment,1,1,79,158,0,Marvila,500000
+214,New,Homes,Apartment,1,1,79,158,0,Marvila,500000
+215,New,Homes,Apartment,1,1,79,158,0,Marvila,450000
+216,New,Homes,Apartment,1,1,79,158,0,Marvila,475000
+217,New,Homes,Apartment,1,1,76,152,0,Marvila,515000
+218,New,Homes,Apartment,2,1,152,304,0,Marvila,700000
+219,New,Homes,Apartment,2,1,145,290,0,Marvila,725000
+220,New,Homes,Apartment,2,1,145,290,0,Marvila,740000
+221,New,Homes,Apartment,2,1,139,278,0,Marvila,715000
+222,New,Homes,Apartment,2,1,139,278,0,Marvila,685000
+223,New,Homes,Apartment,2,1,139,278,0,Marvila,700000
+224,New,Homes,Apartment,2,1,139,278,0,Marvila,715000
+225,New,Homes,Apartment,2,1,145,290,0,Marvila,725000
+226,New,Homes,Apartment,1,1,79,158,0,Marvila,500000
+227,New,Homes,Apartment,2,1,152,304,0,Marvila,700000
+228,New,Homes,Apartment,2,1,187,374,0,Marvila,775000
+229,New,Homes,Apartment,3,2,210,420,0,Marvila,975000
+230,New,Homes,Apartment,3,2,175,350,0,Marvila,785000
+231,New,Homes,Studio,0,2,48,96,0,'Sao Vicente',220000
+232,New,Homes,Studio,0,1,41,82,0,'Sao Vicente',225000
+233,New,Homes,Apartment,1,1,42,84,0,'Sao Vicente',295000
+234,New,Homes,Apartment,1,1,42,84,0,'Sao Vicente',265000
+235,New,Homes,Apartment,1,1,42,84,0,'Sao Vicente',270000
+236,New,Homes,Apartment,1,0,37,74,0,'Sao Vicente',320000
+237,New,Homes,Apartment,2,2,100,200,0,Arroios,420000
+238,New,Homes,Apartment,3,2,90,180,0,'Santo Antonio',620000
+239,New,Homes,Apartment,3,2,97,194,0,'Santa Maria Maior',634000
+240,New,Homes,Apartment,3,3,163,326,0,Marvila,699000
+241,New,Homes,Apartment,3,3,163,326,0,Marvila,752178
+242,New,Homes,Apartment,3,3,163,326,0,Marvila,804678
+243,New,Homes,Apartment,2,3,145,290,0,Ajuda,650000
+244,New,Homes,Apartment,2,2,65,130,0,'Sao Vicente',360000
+245,New,Homes,Apartment,4,3,173,346,0,Carnide,650000
+246,New,Homes,Apartment,3,5,185,370,0,'Avenidas Novas',1299000
+247,New,Homes,Apartment,2,3,74,148,0,Estrela,490000
+248,New,Homes,Apartment,2,3,74,148,0,Estrela,490000
+249,New,Homes,Duplex,6,5,336,672,0,'Santa Maria Maior',4150000
+250,New,Homes,Apartment,6,5,359,718,0,Lumiar,1650000
+251,New,Homes,Duplex,5,4,225,450,0,'Sao Domingos de Benfica',1450000
+252,'As New',Homes,Apartment,4,2,170,340,0,Belem,560000
+253,'As New',Homes,Apartment,1,1,45,90,0,Alcantara,199900
+254,'As New',Homes,Apartment,1,1,135,270,0,'Santa Maria Maior',1499000
+255,'As New',Homes,Apartment,4,4,245,490,0,Alvalade,1500000
+256,'As New',Homes,Apartment,2,1,91,182,0,'Penha de Franca',295000
+257,'As New',Homes,Apartment,3,2,100,200,0,Arroios,375000
+258,'As New',Homes,Apartment,1,2,75,150,0,Estrela,430000
+259,'As New',Homes,Apartment,2,2,104,208,0,Areeiro,400000
+260,'As New',Homes,Apartment,3,3,126,252,0,Alvalade,520000
+261,'As New',Homes,Duplex,3,2,84,168,0,'Sao Vicente',315000
+262,'As New',Homes,Apartment,2,3,113,226,0,'Parque das Nacoes',665000
+263,'As New',Homes,Apartment,3,3,87,174,0,Olivais,320000
+264,'As New',Homes,Apartment,1,1,23,46,0,Ajuda,175000
+265,'As New',Homes,Apartment,1,1,26,52,0,Ajuda,197500
+266,'As New',Homes,Apartment,4,3,178,356,0,Belem,848000
+267,'As New',Homes,Apartment,1,1,50,100,0,'Sao Vicente',190000
+268,'As New',Homes,Apartment,3,3,144,288,0,'Parque das Nacoes',579000
+269,'As New',Homes,Apartment,3,2,72,144,0,'Santo Antonio',475000
+270,'As New',Homes,Apartment,2,2,145,290,0,'Avenidas Novas',799000
+271,'As New',Homes,Apartment,1,1,50,100,0,Carnide,230000
+272,'As New',Homes,Apartment,3,3,141,282,0,Olivais,479000
+273,'As New',Homes,Apartment,1,1,63,126,0,'Parque das Nacoes',338000
+274,'As New',Homes,Apartment,3,2,88,176,0,Marvila,532000
+275,'As New',Homes,Apartment,2,1,98,196,0,'Sao Vicente',700000
+276,'As New',Homes,Apartment,4,3,177,354,0,Lumiar,565000
+277,'As New',Homes,Apartment,3,2,100,200,0,Alvalade,570000
+278,'As New',Homes,Apartment,3,2,102,204,0,Misericordia,525000
+279,'As New',Homes,Apartment,2,1,85,170,0,Marvila,285000
+280,'As New',Homes,Apartment,2,1,45,90,0,'Santa Maria Maior',287000
+281,'As New',Homes,Duplex,2,2,82,164,0,Arroios,395000
+282,'As New',Homes,Apartment,1,1,30,60,0,'Santa Maria Maior',248000
+283,'As New',Homes,Apartment,3,2,90,180,0,'Santo Antonio',660000
+284,'As New',Homes,Apartment,3,4,192,384,0,Belem,1390000
+285,'As New',Homes,Apartment,1,1,42,84,0,Estrela,161000
+286,'As New',Homes,Apartment,2,1,84,168,0,'Santa Maria Maior',580000
+287,'As New',Homes,Apartment,3,2,130,260,0,'Campo de Ourique',490000
+288,'As New',Homes,Apartment,3,3,141,282,0,Olivais,795000
+289,'As New',Homes,Apartment,2,1,65,130,0,Ajuda,430000
+290,'As New',Homes,Apartment,4,3,164,328,0,'Parque das Nacoes',770000
+291,'As New',Homes,Apartment,3,2,91,182,1,'Sao Domingos de Benfica',375000
+292,'As New',Homes,'Apart Hotel',0,1,34,68,0,'Sao Domingos de Benfica',238000
+293,'As New',Homes,Apartment,2,2,83,166,0,'Parque das Nacoes',359000
+294,'As New',Homes,Apartment,3,2,130,260,0,Benfica,350000
+295,'As New',Homes,Apartment,2,1,50,100,0,Alcantara,225000
+296,'As New',Homes,Apartment,3,2,59,118,0,'Santo Antonio',315000
+297,'As New',Homes,Duplex,3,3,120,240,0,'Parque das Nacoes',620000
+298,'As New',Homes,Apartment,2,1,70,140,0,Estrela,345000
+299,'As New',Homes,Apartment,1,1,50,100,0,Ajuda,210000
+300,'As New',Homes,Apartment,4,5,212,424,0,'Avenidas Novas',2200000
+301,'As New',Homes,Duplex,5,4,153,306,0,'Avenidas Novas',1190000
+302,'As New',Homes,Apartment,2,2,90,180,0,'Penha de Franca',319000
+303,'As New',Homes,Apartment,2,2,182,364,0,Belem,690000
+304,'As New','Single Habitation','Townhouse Dwelling',6,3,208,416,0,Benfica,790000
+305,'As New','Single Habitation','Townhouse Dwelling',2,3,160,320,0,Belem,1200000
+306,'For Refurbishment',Homes,Apartment,3,1,55,110,0,Olivais,179000
+307,'For Refurbishment',Homes,Apartment,2,1,65,130,0,Beato,163500
+308,'For Refurbishment',Homes,Apartment,3,2,130,260,0,Estrela,675000
+309,'For Refurbishment',Homes,Apartment,2,1,77,154,0,'Penha de Franca',275000
+310,'For Refurbishment',Homes,Apartment,6,2,150,300,0,Arroios,700000
+311,'For Refurbishment',Homes,Apartment,2,1,58,116,0,Campolide,160000
+312,'For Refurbishment',Homes,Apartment,3,2,103,206,0,Alvalade,460000
+313,'For Refurbishment',Homes,Apartment,1,1,50,100,0,'Penha de Franca',149500
+314,'For Refurbishment',Homes,Apartment,2,1,62,124,0,'Penha de Franca',204000
+315,'For Refurbishment',Homes,Apartment,4,2,168,336,0,'Santa Maria Maior',900000
+316,'For Refurbishment',Homes,Apartment,3,1,60,120,0,Olivais,165000
+317,'For Refurbishment',Homes,Apartment,2,1,60,120,0,Estrela,198000
+318,'For Refurbishment',Homes,Apartment,3,1,75,150,0,'Santa Maria Maior',290000
+319,'For Refurbishment',Homes,Duplex,4,2,130,260,0,Estrela,520000
+320,'For Refurbishment',Homes,Apartment,4,3,130,260,0,'Sao Domingos de Benfica',376500
+321,'For Refurbishment',Homes,Apartment,3,1,83,166,0,Estrela,250000
+322,'For Refurbishment',Homes,Apartment,2,1,70,140,0,Campolide,125500
+323,'For Refurbishment',Homes,Apartment,3,1,85,170,0,Olivais,187000
+324,'For Refurbishment',Homes,Apartment,3,2,83,166,0,'Penha de Franca',267000
+325,'For Refurbishment',Homes,Apartment,4,2,102,204,0,Marvila,249000
+326,'For Refurbishment',Homes,Apartment,3,2,107,214,0,Alvalade,430000
+327,'For Refurbishment',Homes,Apartment,3,1,80,160,0,'Santa Maria Maior',320000
+328,'For Refurbishment',Homes,Apartment,2,1,54,108,0,Estrela,275000
+329,'For Refurbishment',Homes,Apartment,5,2,136,272,0,'Penha de Franca',450000
+330,'For Refurbishment',Homes,Apartment,3,2,77,154,0,'Santo Antonio',298000
+331,'For Refurbishment',Homes,Apartment,2,1,47,94,0,'Campo de Ourique',235000
+332,'For Refurbishment',Homes,Apartment,2,1,56,112,0,Arroios,199900
+333,'For Refurbishment',Homes,Apartment,1,1,51,102,0,Estrela,189000
+334,'For Refurbishment',Homes,Apartment,2,1,55,110,0,Olivais,170000
+335,'For Refurbishment',Homes,Apartment,1,1,51,102,0,'Penha de Franca',160000
+336,'For Refurbishment',Homes,Apartment,4,1,112,224,0,Arroios,375000
+337,'For Refurbishment',Homes,Apartment,3,1,103,206,0,Arroios,325000
+338,'For Refurbishment',Homes,Apartment,2,1,100,200,0,Arroios,270000
+339,'For Refurbishment',Homes,Apartment,2,1,93,186,0,Arroios,270000
+340,'For Refurbishment',Homes,Apartment,4,2,179,358,0,'Santo Antonio',630000
+341,'For Refurbishment',Homes,Apartment,2,2,51,102,0,'Santa Maria Maior',235000
+342,'For Refurbishment',Homes,Apartment,5,1,135,270,0,'Avenidas Novas',480000
+343,'For Refurbishment',Homes,Apartment,1,1,54,108,0,'Santo Antonio',240000
+344,'For Refurbishment',Homes,Apartment,3,2,113,226,0,Lumiar,450000
+345,'For Refurbishment',Homes,Apartment,2,1,46,92,0,Arroios,205000
+346,'For Refurbishment',Homes,Apartment,2,1,66,132,0,Benfica,196500
+347,'For Refurbishment',Homes,Apartment,3,1,75,150,0,'Santa Maria Maior',245000
+348,'For Refurbishment','Single Habitation','Townhouse Dwelling',2,1,90,180,0,Olivais,486000
+349,'For Refurbishment','Single Habitation',Dwelling,4,3,121,242,0,Belem,375000
+350,'For Refurbishment','Single Habitation','Townhouse Dwelling',2,2,70,140,0,Campolide,850000
