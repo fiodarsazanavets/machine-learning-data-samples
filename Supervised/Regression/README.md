@@ -31,3 +31,5 @@ Modifications:
 
 * Converted to CSV format
 * Added headers
+* Replaced the ' characters with " in strings
+* For the unknown rating values marked with the ? character, the default rating of 3 was applied
