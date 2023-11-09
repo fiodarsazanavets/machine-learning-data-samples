@@ -8,7 +8,7 @@ User id column: UserId
 
 Item identifier column: ProductId
 
-Rating column: Rting
+Rating column: Rating
 
 Original source:
 
