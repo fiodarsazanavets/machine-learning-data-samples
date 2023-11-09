@@ -33,3 +33,18 @@ Modifications:
 * Added headers
 * Replaced the ' characters with " in strings
 * For the unknown rating values marked with the ? character, the default rating of 3 was applied
+
+## salary-data.csv
+
+Format: comma-separated values
+
+Label column: Rating
+
+Original source:
+
+https://www.openml.org/search?type=data&status=active&id=43543
+
+Modifications:
+
+* Converted to CSV format
+* Added headers
