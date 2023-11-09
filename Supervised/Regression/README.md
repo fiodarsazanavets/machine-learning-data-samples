@@ -15,3 +15,19 @@ Modifications:
 * Converted to CSV format
 * Added headers
 * Removed redundant columns
+
+
+## indeed-jobs-ratings.csv
+
+Format: comma-separated values
+
+Label column: Rating
+
+Original source:
+
+https://www.openml.org/search?type=data&status=active&id=43835
+
+Modifications:
+
+* Converted to CSV format
+* Added headers
