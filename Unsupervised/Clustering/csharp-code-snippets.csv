@@ -1,0 +1,3 @@
+var transactionManager = new TransactionManagerService();
+ClaimsService claimsService = new();
+var claims = new ClaimsService();
