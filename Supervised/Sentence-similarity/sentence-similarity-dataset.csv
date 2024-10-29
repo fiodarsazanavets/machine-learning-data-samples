@@ -1,0 +1,1001 @@
+Sentence1,Sentence2,Similarity
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+The coffee tastes bitter today.,The room is filled with laughter and joy.,1
+The sun is shining brightly.,The dog is barking at the stranger.,1
+The sun is shining brightly.,The room is filled with laughter and joy.,1
+The sun is shining brightly.,The cat is sleeping on the couch.,1
+Leaves are falling from the trees.,Children are playing in the park.,0
+Leaves are falling from the trees.,The river flows gently through the valley.,0
+Leaves are falling from the trees.,The river flows gently through the valley.,0
+The sky is blue.,The room is filled with laughter and joy.,1
+A delicious aroma fills the kitchen.,Birds are chirping in the morning.,0
+A train is passing through the station.,The river flows gently through the valley.,0
+The river flows gently through the valley.,Cars are honking on the busy street.,0
+The cat is sleeping on the couch.,Children are playing in the park.,0
+The dog is barking at the stranger.,The river flows gently through the valley.,1
+A train is passing through the station.,A delicious aroma fills the kitchen.,1
+The river flows gently through the valley.,The mountain peaks are covered with snow.,1
+Children are playing in the park.,Leaves are falling from the trees.,0
+The cat is sleeping on the couch.,Children are playing in the park.,0
+Birds are chirping in the morning.,The river flows gently through the valley.,0
+The cat is sleeping on the couch.,A train is passing through the station.,0
+Children are playing in the park.,The river flows gently through the valley.,0
+Children are playing in the park.,The room is filled with laughter and joy.,0
+Leaves are falling from the trees.,Birds are chirping in the morning.,0
+The cat is sleeping on the couch.,The room is filled with laughter and joy.,1
+Birds are chirping in the morning.,The mountain peaks are covered with snow.,0
+A train is passing through the station.,The river flows gently through the valley.,0
+Birds are chirping in the morning.,The room is filled with laughter and joy.,0
+It is raining heavily outside.,The cat is sleeping on the couch.,0
+The sky is blue.,The dog is barking at the stranger.,1
+A delicious aroma fills the kitchen.,The mountain peaks are covered with snow.,0
+The river flows gently through the valley.,Leaves are falling from the trees.,0
+The coffee tastes bitter today.,Birds are chirping in the morning.,0
+The coffee tastes bitter today.,The dog is barking at the stranger.,1
+The coffee tastes bitter today.,The sun is shining brightly.,1
+Children are playing in the park.,The room is filled with laughter and joy.,0
+Children are playing in the park.,The coffee tastes bitter today.,0
+The cat is sleeping on the couch.,The sun is shining brightly.,1
+A delicious aroma fills the kitchen.,A train is passing through the station.,1
+The sun is shining brightly.,The cat is sleeping on the couch.,1
+The mountain peaks are covered with snow.,The room is filled with laughter and joy.,1
+The coffee tastes bitter today.,Leaves are falling from the trees.,0
+Children are playing in the park.,The dog is barking at the stranger.,0
+It is raining heavily outside.,Leaves are falling from the trees.,0
+Children are playing in the park.,Birds are chirping in the morning.,0
+The cat is sleeping on the couch.,Children are playing in the park.,0
+The sky is blue.,The room is filled with laughter and joy.,1
+A delicious aroma fills the kitchen.,The sun is shining brightly.,0
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+The cat is sleeping on the couch.,The coffee tastes bitter today.,1
+The sky is blue.,The cat is sleeping on the couch.,1
+Birds are chirping in the morning.,A delicious aroma fills the kitchen.,0
+The sky is blue.,The dog is barking at the stranger.,1
+Cars are honking on the busy street.,It is raining heavily outside.,0
+A train is passing through the station.,The sky is blue.,0
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+It is raining heavily outside.,The mountain peaks are covered with snow.,0
+The sky is blue.,The sun is shining brightly.,1
+A delicious aroma fills the kitchen.,The river flows gently through the valley.,0
+It is raining heavily outside.,The coffee tastes bitter today.,0
+The room is filled with laughter and joy.,The cat is sleeping on the couch.,1
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+It is raining heavily outside.,The dog is barking at the stranger.,0
+The coffee tastes bitter today.,Birds are chirping in the morning.,0
+Cars are honking on the busy street.,Leaves are falling from the trees.,0
+It is raining heavily outside.,The coffee tastes bitter today.,0
+Cars are honking on the busy street.,The sky is blue.,0
+The dog is barking at the stranger.,The sun is shining brightly.,1
+The sun is shining brightly.,Birds are chirping in the morning.,0
+The cat is sleeping on the couch.,The mountain peaks are covered with snow.,1
+It is raining heavily outside.,The mountain peaks are covered with snow.,0
+Leaves are falling from the trees.,Birds are chirping in the morning.,0
+The sun is shining brightly.,The coffee tastes bitter today.,1
+The cat is sleeping on the couch.,Children are playing in the park.,0
+The room is filled with laughter and joy.,The river flows gently through the valley.,1
+A delicious aroma fills the kitchen.,The coffee tastes bitter today.,0
+A delicious aroma fills the kitchen.,A train is passing through the station.,1
+The sun is shining brightly.,It is raining heavily outside.,0
+The dog is barking at the stranger.,The coffee tastes bitter today.,1
+The coffee tastes bitter today.,A delicious aroma fills the kitchen.,0
+Leaves are falling from the trees.,Children are playing in the park.,0
+Cars are honking on the busy street.,The river flows gently through the valley.,0
+The sky is blue.,The room is filled with laughter and joy.,1
+The sky is blue.,The dog is barking at the stranger.,1
+Children are playing in the park.,Birds are chirping in the morning.,0
+The river flows gently through the valley.,The dog is barking at the stranger.,1
+Cars are honking on the busy street.,A delicious aroma fills the kitchen.,0
+A delicious aroma fills the kitchen.,The room is filled with laughter and joy.,0
+Children are playing in the park.,The cat is sleeping on the couch.,0
+The sky is blue.,The river flows gently through the valley.,1
+It is raining heavily outside.,Birds are chirping in the morning.,0
+The sky is blue.,The dog is barking at the stranger.,1
+It is raining heavily outside.,Children are playing in the park.,0
+The coffee tastes bitter today.,Children are playing in the park.,0
+The mountain peaks are covered with snow.,Leaves are falling from the trees.,0
+The coffee tastes bitter today.,The sky is blue.,1
+The sun is shining brightly.,Birds are chirping in the morning.,0
+A train is passing through the station.,The sun is shining brightly.,0
+Cars are honking on the busy street.,A train is passing through the station.,0
+Cars are honking on the busy street.,The cat is sleeping on the couch.,0
+The coffee tastes bitter today.,Leaves are falling from the trees.,0
+The room is filled with laughter and joy.,The river flows gently through the valley.,1
+The coffee tastes bitter today.,Birds are chirping in the morning.,0
+Birds are chirping in the morning.,The dog is barking at the stranger.,0
+Children are playing in the park.,Leaves are falling from the trees.,0
+The dog is barking at the stranger.,Birds are chirping in the morning.,0
+Birds are chirping in the morning.,Children are playing in the park.,0
+A delicious aroma fills the kitchen.,The cat is sleeping on the couch.,0
+Children are playing in the park.,A train is passing through the station.,0
+The mountain peaks are covered with snow.,It is raining heavily outside.,0
+Birds are chirping in the morning.,The cat is sleeping on the couch.,0
+The sky is blue.,The room is filled with laughter and joy.,1
+The room is filled with laughter and joy.,Cars are honking on the busy street.,0
+The cat is sleeping on the couch.,Birds are chirping in the morning.,0
+A delicious aroma fills the kitchen.,The sun is shining brightly.,0
+A delicious aroma fills the kitchen.,A train is passing through the station.,1
+The sun is shining brightly.,The mountain peaks are covered with snow.,1
+A delicious aroma fills the kitchen.,The river flows gently through the valley.,0
+The cat is sleeping on the couch.,It is raining heavily outside.,0
+Children are playing in the park.,The dog is barking at the stranger.,0
+The room is filled with laughter and joy.,Children are playing in the park.,0
+A train is passing through the station.,The river flows gently through the valley.,0
+The mountain peaks are covered with snow.,Children are playing in the park.,0
+The room is filled with laughter and joy.,The dog is barking at the stranger.,1
+Birds are chirping in the morning.,The cat is sleeping on the couch.,0
+The sky is blue.,The sun is shining brightly.,1
+The room is filled with laughter and joy.,The sky is blue.,1
+Cars are honking on the busy street.,Leaves are falling from the trees.,0
+A train is passing through the station.,Leaves are falling from the trees.,0
+The mountain peaks are covered with snow.,The sky is blue.,1
+Cars are honking on the busy street.,The coffee tastes bitter today.,0
+The coffee tastes bitter today.,A train is passing through the station.,0
+The river flows gently through the valley.,A train is passing through the station.,0
+Leaves are falling from the trees.,A delicious aroma fills the kitchen.,0
+The river flows gently through the valley.,The sun is shining brightly.,1
+The river flows gently through the valley.,The cat is sleeping on the couch.,1
+The sun is shining brightly.,A delicious aroma fills the kitchen.,0
+The cat is sleeping on the couch.,Leaves are falling from the trees.,0
+The river flows gently through the valley.,Children are playing in the park.,0
+Birds are chirping in the morning.,The sun is shining brightly.,0
+The sun is shining brightly.,Leaves are falling from the trees.,0
+The sky is blue.,The room is filled with laughter and joy.,1
+It is raining heavily outside.,The dog is barking at the stranger.,0
+The river flows gently through the valley.,The sky is blue.,1
+The sky is blue.,A delicious aroma fills the kitchen.,0
+Birds are chirping in the morning.,The river flows gently through the valley.,0
+The cat is sleeping on the couch.,Birds are chirping in the morning.,0
+The dog is barking at the stranger.,A train is passing through the station.,0
+The dog is barking at the stranger.,Birds are chirping in the morning.,0
+The mountain peaks are covered with snow.,The cat is sleeping on the couch.,1
+Cars are honking on the busy street.,Leaves are falling from the trees.,0
+Cars are honking on the busy street.,Leaves are falling from the trees.,0
+Children are playing in the park.,A delicious aroma fills the kitchen.,0
+The coffee tastes bitter today.,The cat is sleeping on the couch.,1
+The river flows gently through the valley.,The mountain peaks are covered with snow.,1
+The sky is blue.,The sun is shining brightly.,1
+The mountain peaks are covered with snow.,Leaves are falling from the trees.,0
+A delicious aroma fills the kitchen.,The coffee tastes bitter today.,0
+The river flows gently through the valley.,The coffee tastes bitter today.,1
+Birds are chirping in the morning.,The room is filled with laughter and joy.,0
+The room is filled with laughter and joy.,Leaves are falling from the trees.,0
+Birds are chirping in the morning.,The dog is barking at the stranger.,0
+A delicious aroma fills the kitchen.,The mountain peaks are covered with snow.,0
+The room is filled with laughter and joy.,The sky is blue.,1
+The room is filled with laughter and joy.,A delicious aroma fills the kitchen.,0
+A train is passing through the station.,The sky is blue.,0
+The river flows gently through the valley.,The cat is sleeping on the couch.,1
+A delicious aroma fills the kitchen.,The river flows gently through the valley.,0
+The river flows gently through the valley.,The sky is blue.,1
+Cars are honking on the busy street.,The room is filled with laughter and joy.,0
+A train is passing through the station.,The river flows gently through the valley.,0
+Cars are honking on the busy street.,A train is passing through the station.,0
+The mountain peaks are covered with snow.,A train is passing through the station.,0
+Birds are chirping in the morning.,Cars are honking on the busy street.,0
+The sun is shining brightly.,Cars are honking on the busy street.,0
+The mountain peaks are covered with snow.,The room is filled with laughter and joy.,1
+A train is passing through the station.,Birds are chirping in the morning.,0
+Leaves are falling from the trees.,Birds are chirping in the morning.,0
+Children are playing in the park.,The coffee tastes bitter today.,0
+The dog is barking at the stranger.,The sun is shining brightly.,1
+Children are playing in the park.,A train is passing through the station.,0
+Cars are honking on the busy street.,The coffee tastes bitter today.,0
+Leaves are falling from the trees.,Cars are honking on the busy street.,0
+Birds are chirping in the morning.,The mountain peaks are covered with snow.,0
+A train is passing through the station.,The room is filled with laughter and joy.,0
+The sun is shining brightly.,The dog is barking at the stranger.,1
+Leaves are falling from the trees.,The room is filled with laughter and joy.,0
+Leaves are falling from the trees.,A train is passing through the station.,0
+Children are playing in the park.,Leaves are falling from the trees.,0
+The sun is shining brightly.,Cars are honking on the busy street.,0
+Birds are chirping in the morning.,Leaves are falling from the trees.,0
+Cars are honking on the busy street.,Children are playing in the park.,0
+The sky is blue.,Children are playing in the park.,0
+Birds are chirping in the morning.,Cars are honking on the busy street.,0
+The mountain peaks are covered with snow.,The sky is blue.,1
+Cars are honking on the busy street.,It is raining heavily outside.,0
+Cars are honking on the busy street.,The river flows gently through the valley.,0
+Birds are chirping in the morning.,Children are playing in the park.,0
+The cat is sleeping on the couch.,The sky is blue.,1
+Cars are honking on the busy street.,The room is filled with laughter and joy.,0
+Leaves are falling from the trees.,Birds are chirping in the morning.,0
+The room is filled with laughter and joy.,The cat is sleeping on the couch.,1
+The river flows gently through the valley.,A train is passing through the station.,0
+The room is filled with laughter and joy.,Cars are honking on the busy street.,0
+A train is passing through the station.,The sun is shining brightly.,0
+The dog is barking at the stranger.,The sky is blue.,1
+The mountain peaks are covered with snow.,The river flows gently through the valley.,1
+The room is filled with laughter and joy.,The sky is blue.,1
+The river flows gently through the valley.,The room is filled with laughter and joy.,1
+The room is filled with laughter and joy.,The mountain peaks are covered with snow.,1
+Birds are chirping in the morning.,Leaves are falling from the trees.,0
+Leaves are falling from the trees.,The sun is shining brightly.,0
+It is raining heavily outside.,A delicious aroma fills the kitchen.,0
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+Birds are chirping in the morning.,The room is filled with laughter and joy.,0
+It is raining heavily outside.,Birds are chirping in the morning.,0
+The river flows gently through the valley.,Cars are honking on the busy street.,0
+The sun is shining brightly.,The mountain peaks are covered with snow.,1
+The river flows gently through the valley.,The cat is sleeping on the couch.,1
+The cat is sleeping on the couch.,The sun is shining brightly.,1
+The room is filled with laughter and joy.,It is raining heavily outside.,0
+The river flows gently through the valley.,A delicious aroma fills the kitchen.,0
+Cars are honking on the busy street.,A delicious aroma fills the kitchen.,0
+Cars are honking on the busy street.,The mountain peaks are covered with snow.,0
+The river flows gently through the valley.,The mountain peaks are covered with snow.,1
+Children are playing in the park.,A delicious aroma fills the kitchen.,0
+The room is filled with laughter and joy.,It is raining heavily outside.,0
+Cars are honking on the busy street.,Leaves are falling from the trees.,0
+The coffee tastes bitter today.,The room is filled with laughter and joy.,1
+The dog is barking at the stranger.,The river flows gently through the valley.,1
+Leaves are falling from the trees.,It is raining heavily outside.,0
+Leaves are falling from the trees.,The river flows gently through the valley.,0
+The river flows gently through the valley.,Children are playing in the park.,0
+The dog is barking at the stranger.,The room is filled with laughter and joy.,1
+The river flows gently through the valley.,A delicious aroma fills the kitchen.,0
+The sun is shining brightly.,A delicious aroma fills the kitchen.,0
+The cat is sleeping on the couch.,The coffee tastes bitter today.,1
+It is raining heavily outside.,The mountain peaks are covered with snow.,0
+The cat is sleeping on the couch.,Children are playing in the park.,0
+It is raining heavily outside.,The dog is barking at the stranger.,0
+The coffee tastes bitter today.,Leaves are falling from the trees.,0
+The mountain peaks are covered with snow.,Leaves are falling from the trees.,0
+Leaves are falling from the trees.,Cars are honking on the busy street.,0
+The sun is shining brightly.,A train is passing through the station.,0
+Children are playing in the park.,Leaves are falling from the trees.,0
+The mountain peaks are covered with snow.,The dog is barking at the stranger.,1
+The cat is sleeping on the couch.,The dog is barking at the stranger.,1
+The sun is shining brightly.,The dog is barking at the stranger.,1
+Leaves are falling from the trees.,Birds are chirping in the morning.,0
+It is raining heavily outside.,The cat is sleeping on the couch.,0
+The mountain peaks are covered with snow.,The coffee tastes bitter today.,1
+The coffee tastes bitter today.,The mountain peaks are covered with snow.,1
+The sun is shining brightly.,Cars are honking on the busy street.,0
+A delicious aroma fills the kitchen.,It is raining heavily outside.,0
+Leaves are falling from the trees.,A delicious aroma fills the kitchen.,0
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+Children are playing in the park.,A train is passing through the station.,0
+A delicious aroma fills the kitchen.,A train is passing through the station.,1
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+The sun is shining brightly.,The dog is barking at the stranger.,1
+The mountain peaks are covered with snow.,A delicious aroma fills the kitchen.,0
+The dog is barking at the stranger.,The sky is blue.,1
+The room is filled with laughter and joy.,Leaves are falling from the trees.,0
+Children are playing in the park.,The cat is sleeping on the couch.,0
+The river flows gently through the valley.,The cat is sleeping on the couch.,1
+The sky is blue.,Children are playing in the park.,0
+It is raining heavily outside.,The river flows gently through the valley.,0
+A delicious aroma fills the kitchen.,Children are playing in the park.,0
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+The sun is shining brightly.,The river flows gently through the valley.,1
+Leaves are falling from the trees.,The sky is blue.,0
+The room is filled with laughter and joy.,The sky is blue.,1
+The room is filled with laughter and joy.,The sky is blue.,1
+Cars are honking on the busy street.,Children are playing in the park.,0
+The sky is blue.,Cars are honking on the busy street.,0
+The cat is sleeping on the couch.,Leaves are falling from the trees.,0
+It is raining heavily outside.,The river flows gently through the valley.,0
+The cat is sleeping on the couch.,The sky is blue.,1
+Leaves are falling from the trees.,Cars are honking on the busy street.,0
+The cat is sleeping on the couch.,A delicious aroma fills the kitchen.,0
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+It is raining heavily outside.,Birds are chirping in the morning.,0
+It is raining heavily outside.,The sky is blue.,0
+The mountain peaks are covered with snow.,The river flows gently through the valley.,1
+A train is passing through the station.,Cars are honking on the busy street.,0
+A train is passing through the station.,Birds are chirping in the morning.,0
+A train is passing through the station.,The mountain peaks are covered with snow.,0
+Cars are honking on the busy street.,It is raining heavily outside.,0
+The cat is sleeping on the couch.,The river flows gently through the valley.,1
+The dog is barking at the stranger.,The river flows gently through the valley.,1
+Cars are honking on the busy street.,It is raining heavily outside.,0
+The room is filled with laughter and joy.,The coffee tastes bitter today.,1
+The sky is blue.,A train is passing through the station.,0
+Children are playing in the park.,A train is passing through the station.,0
+The sky is blue.,A train is passing through the station.,0
+A delicious aroma fills the kitchen.,It is raining heavily outside.,0
+Birds are chirping in the morning.,A train is passing through the station.,0
+It is raining heavily outside.,Leaves are falling from the trees.,0
+The river flows gently through the valley.,Leaves are falling from the trees.,0
+The sun is shining brightly.,The cat is sleeping on the couch.,1
+The room is filled with laughter and joy.,The sun is shining brightly.,1
+Children are playing in the park.,The room is filled with laughter and joy.,0
+Cars are honking on the busy street.,Children are playing in the park.,0
+The dog is barking at the stranger.,Children are playing in the park.,0
+A train is passing through the station.,The sky is blue.,0
+The sky is blue.,It is raining heavily outside.,0
+The sun is shining brightly.,The mountain peaks are covered with snow.,1
+A train is passing through the station.,A delicious aroma fills the kitchen.,1
+A train is passing through the station.,The coffee tastes bitter today.,0
+Cars are honking on the busy street.,The cat is sleeping on the couch.,0
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+Leaves are falling from the trees.,The river flows gently through the valley.,0
+A train is passing through the station.,Cars are honking on the busy street.,0
+A delicious aroma fills the kitchen.,It is raining heavily outside.,0
+The sky is blue.,A delicious aroma fills the kitchen.,0
+A train is passing through the station.,The cat is sleeping on the couch.,0
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+Leaves are falling from the trees.,It is raining heavily outside.,0
+Leaves are falling from the trees.,The sun is shining brightly.,0
+Children are playing in the park.,The coffee tastes bitter today.,0
+Leaves are falling from the trees.,The mountain peaks are covered with snow.,0
+The sky is blue.,The coffee tastes bitter today.,1
+The coffee tastes bitter today.,A train is passing through the station.,0
+The river flows gently through the valley.,A train is passing through the station.,0
+The cat is sleeping on the couch.,The mountain peaks are covered with snow.,1
+The sky is blue.,Children are playing in the park.,0
+Cars are honking on the busy street.,The mountain peaks are covered with snow.,0
+Leaves are falling from the trees.,The river flows gently through the valley.,0
+The sun is shining brightly.,It is raining heavily outside.,0
+It is raining heavily outside.,Cars are honking on the busy street.,0
+The river flows gently through the valley.,Leaves are falling from the trees.,0
+Birds are chirping in the morning.,Children are playing in the park.,0
+A delicious aroma fills the kitchen.,A train is passing through the station.,1
+The river flows gently through the valley.,A delicious aroma fills the kitchen.,0
+The dog is barking at the stranger.,The cat is sleeping on the couch.,1
+The dog is barking at the stranger.,Children are playing in the park.,0
+The mountain peaks are covered with snow.,The sky is blue.,1
+A delicious aroma fills the kitchen.,The sky is blue.,0
+A train is passing through the station.,Cars are honking on the busy street.,0
+The room is filled with laughter and joy.,A train is passing through the station.,0
+Leaves are falling from the trees.,A train is passing through the station.,0
+The dog is barking at the stranger.,The sky is blue.,1
+A train is passing through the station.,The sun is shining brightly.,0
+The mountain peaks are covered with snow.,The coffee tastes bitter today.,1
+Birds are chirping in the morning.,The sun is shining brightly.,0
+The coffee tastes bitter today.,The mountain peaks are covered with snow.,1
+The river flows gently through the valley.,Leaves are falling from the trees.,0
+The room is filled with laughter and joy.,The mountain peaks are covered with snow.,1
+It is raining heavily outside.,The sky is blue.,0
+The sky is blue.,Leaves are falling from the trees.,0
+The cat is sleeping on the couch.,A train is passing through the station.,0
+The mountain peaks are covered with snow.,A delicious aroma fills the kitchen.,0
+The mountain peaks are covered with snow.,It is raining heavily outside.,0
+The sun is shining brightly.,The cat is sleeping on the couch.,1
+The sun is shining brightly.,The dog is barking at the stranger.,1
+Birds are chirping in the morning.,The river flows gently through the valley.,0
+The river flows gently through the valley.,The sky is blue.,1
+The coffee tastes bitter today.,A train is passing through the station.,0
+The sun is shining brightly.,The coffee tastes bitter today.,1
+The coffee tastes bitter today.,The sky is blue.,1
+The mountain peaks are covered with snow.,The coffee tastes bitter today.,1
+The room is filled with laughter and joy.,A delicious aroma fills the kitchen.,0
+The sun is shining brightly.,Children are playing in the park.,0
+A train is passing through the station.,The room is filled with laughter and joy.,0
+The cat is sleeping on the couch.,Cars are honking on the busy street.,0
+The mountain peaks are covered with snow.,The sky is blue.,1
+Leaves are falling from the trees.,The sky is blue.,0
+A train is passing through the station.,The room is filled with laughter and joy.,0
+The river flows gently through the valley.,The coffee tastes bitter today.,1
+A train is passing through the station.,The river flows gently through the valley.,0
+Children are playing in the park.,A delicious aroma fills the kitchen.,0
+The room is filled with laughter and joy.,The river flows gently through the valley.,1
+The room is filled with laughter and joy.,The mountain peaks are covered with snow.,1
+A train is passing through the station.,Birds are chirping in the morning.,0
+The dog is barking at the stranger.,Leaves are falling from the trees.,0
+The mountain peaks are covered with snow.,The room is filled with laughter and joy.,1
+Birds are chirping in the morning.,Cars are honking on the busy street.,0
+Leaves are falling from the trees.,Children are playing in the park.,0
+Children are playing in the park.,A delicious aroma fills the kitchen.,0
+The mountain peaks are covered with snow.,Birds are chirping in the morning.,0
+The mountain peaks are covered with snow.,A train is passing through the station.,0
+A delicious aroma fills the kitchen.,The cat is sleeping on the couch.,0
+The room is filled with laughter and joy.,Leaves are falling from the trees.,0
+A train is passing through the station.,The room is filled with laughter and joy.,0
+The room is filled with laughter and joy.,Cars are honking on the busy street.,0
+The mountain peaks are covered with snow.,Leaves are falling from the trees.,0
+The dog is barking at the stranger.,The cat is sleeping on the couch.,1
+The cat is sleeping on the couch.,It is raining heavily outside.,0
+The mountain peaks are covered with snow.,The coffee tastes bitter today.,1
+Cars are honking on the busy street.,The sky is blue.,0
+Children are playing in the park.,Birds are chirping in the morning.,0
+Leaves are falling from the trees.,The sun is shining brightly.,0
+Birds are chirping in the morning.,The river flows gently through the valley.,0
+It is raining heavily outside.,The sky is blue.,0
+The coffee tastes bitter today.,The sky is blue.,1
+The coffee tastes bitter today.,The cat is sleeping on the couch.,1
+The cat is sleeping on the couch.,Cars are honking on the busy street.,0
+Cars are honking on the busy street.,The mountain peaks are covered with snow.,0
+The cat is sleeping on the couch.,It is raining heavily outside.,0
+The cat is sleeping on the couch.,Children are playing in the park.,0
+Cars are honking on the busy street.,Birds are chirping in the morning.,0
+The cat is sleeping on the couch.,The sky is blue.,1
+The river flows gently through the valley.,The sun is shining brightly.,1
+The sky is blue.,The cat is sleeping on the couch.,1
+It is raining heavily outside.,Birds are chirping in the morning.,0
+The cat is sleeping on the couch.,The sun is shining brightly.,1
+Children are playing in the park.,Cars are honking on the busy street.,0
+It is raining heavily outside.,A train is passing through the station.,0
+The sun is shining brightly.,The mountain peaks are covered with snow.,1
+Leaves are falling from the trees.,A delicious aroma fills the kitchen.,0
+The room is filled with laughter and joy.,A delicious aroma fills the kitchen.,0
+A delicious aroma fills the kitchen.,The river flows gently through the valley.,0
+The mountain peaks are covered with snow.,The dog is barking at the stranger.,1
+The sun is shining brightly.,The river flows gently through the valley.,1
+The mountain peaks are covered with snow.,The coffee tastes bitter today.,1
+The river flows gently through the valley.,Cars are honking on the busy street.,0
+The room is filled with laughter and joy.,Children are playing in the park.,0
+The river flows gently through the valley.,The coffee tastes bitter today.,1
+Birds are chirping in the morning.,The river flows gently through the valley.,0
+The mountain peaks are covered with snow.,A train is passing through the station.,0
+Children are playing in the park.,The sky is blue.,0
+The river flows gently through the valley.,It is raining heavily outside.,0
+Children are playing in the park.,The dog is barking at the stranger.,0
+The room is filled with laughter and joy.,The dog is barking at the stranger.,1
+It is raining heavily outside.,The sky is blue.,0
+Birds are chirping in the morning.,The coffee tastes bitter today.,0
+The mountain peaks are covered with snow.,The sun is shining brightly.,1
+It is raining heavily outside.,The mountain peaks are covered with snow.,0
+The sun is shining brightly.,Children are playing in the park.,0
+The dog is barking at the stranger.,It is raining heavily outside.,0
+Children are playing in the park.,Leaves are falling from the trees.,0
+Birds are chirping in the morning.,The sun is shining brightly.,0
+The cat is sleeping on the couch.,Children are playing in the park.,0
+Birds are chirping in the morning.,The sun is shining brightly.,0
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+Cars are honking on the busy street.,The cat is sleeping on the couch.,0
+The coffee tastes bitter today.,A delicious aroma fills the kitchen.,0
+The river flows gently through the valley.,A train is passing through the station.,0
+Children are playing in the park.,The mountain peaks are covered with snow.,0
+Leaves are falling from the trees.,The sky is blue.,0
+It is raining heavily outside.,Cars are honking on the busy street.,0
+Birds are chirping in the morning.,The room is filled with laughter and joy.,0
+The coffee tastes bitter today.,Leaves are falling from the trees.,0
+The coffee tastes bitter today.,The room is filled with laughter and joy.,1
+The sky is blue.,A train is passing through the station.,0
+It is raining heavily outside.,The coffee tastes bitter today.,0
+The cat is sleeping on the couch.,Cars are honking on the busy street.,0
+Children are playing in the park.,It is raining heavily outside.,0
+The cat is sleeping on the couch.,The room is filled with laughter and joy.,1
+The river flows gently through the valley.,Children are playing in the park.,0
+It is raining heavily outside.,The river flows gently through the valley.,0
+A train is passing through the station.,It is raining heavily outside.,0
+A delicious aroma fills the kitchen.,The sun is shining brightly.,0
+It is raining heavily outside.,The mountain peaks are covered with snow.,0
+Birds are chirping in the morning.,The room is filled with laughter and joy.,0
+A train is passing through the station.,The room is filled with laughter and joy.,0
+It is raining heavily outside.,The cat is sleeping on the couch.,0
+The sun is shining brightly.,Cars are honking on the busy street.,0
+Cars are honking on the busy street.,The river flows gently through the valley.,0
+Cars are honking on the busy street.,It is raining heavily outside.,0
+Birds are chirping in the morning.,The dog is barking at the stranger.,0
+A train is passing through the station.,The cat is sleeping on the couch.,0
+Cars are honking on the busy street.,The cat is sleeping on the couch.,0
+Birds are chirping in the morning.,A train is passing through the station.,0
+The sun is shining brightly.,It is raining heavily outside.,0
+Birds are chirping in the morning.,The room is filled with laughter and joy.,0
+The dog is barking at the stranger.,Leaves are falling from the trees.,0
+The dog is barking at the stranger.,Birds are chirping in the morning.,0
+The river flows gently through the valley.,A train is passing through the station.,0
+The river flows gently through the valley.,Cars are honking on the busy street.,0
+The cat is sleeping on the couch.,A train is passing through the station.,0
+The dog is barking at the stranger.,The cat is sleeping on the couch.,1
+Birds are chirping in the morning.,It is raining heavily outside.,0
+A delicious aroma fills the kitchen.,The cat is sleeping on the couch.,0
+Birds are chirping in the morning.,The cat is sleeping on the couch.,0
+Cars are honking on the busy street.,The sun is shining brightly.,0
+The dog is barking at the stranger.,The sun is shining brightly.,1
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+It is raining heavily outside.,The coffee tastes bitter today.,0
+The cat is sleeping on the couch.,It is raining heavily outside.,0
+The sky is blue.,Cars are honking on the busy street.,0
+A delicious aroma fills the kitchen.,Children are playing in the park.,0
+A delicious aroma fills the kitchen.,The mountain peaks are covered with snow.,0
+It is raining heavily outside.,The coffee tastes bitter today.,0
+Leaves are falling from the trees.,A train is passing through the station.,0
+Leaves are falling from the trees.,Birds are chirping in the morning.,0
+Birds are chirping in the morning.,The sky is blue.,0
+The river flows gently through the valley.,Cars are honking on the busy street.,0
+The mountain peaks are covered with snow.,A delicious aroma fills the kitchen.,0
+The room is filled with laughter and joy.,The cat is sleeping on the couch.,1
+A train is passing through the station.,The mountain peaks are covered with snow.,0
+Leaves are falling from the trees.,Cars are honking on the busy street.,0
+A delicious aroma fills the kitchen.,The coffee tastes bitter today.,0
+Cars are honking on the busy street.,The mountain peaks are covered with snow.,0
+It is raining heavily outside.,Birds are chirping in the morning.,0
+The sun is shining brightly.,The dog is barking at the stranger.,1
+The dog is barking at the stranger.,The river flows gently through the valley.,1
+A delicious aroma fills the kitchen.,The sky is blue.,0
+It is raining heavily outside.,Children are playing in the park.,0
+The mountain peaks are covered with snow.,It is raining heavily outside.,0
+The mountain peaks are covered with snow.,The river flows gently through the valley.,1
+The dog is barking at the stranger.,The sun is shining brightly.,1
+Children are playing in the park.,A train is passing through the station.,0
+The mountain peaks are covered with snow.,Birds are chirping in the morning.,0
+Birds are chirping in the morning.,The room is filled with laughter and joy.,0
+It is raining heavily outside.,A train is passing through the station.,0
+Leaves are falling from the trees.,Birds are chirping in the morning.,0
+Birds are chirping in the morning.,The mountain peaks are covered with snow.,0
+The mountain peaks are covered with snow.,Birds are chirping in the morning.,0
+The mountain peaks are covered with snow.,A train is passing through the station.,0
+The coffee tastes bitter today.,The cat is sleeping on the couch.,1
+The mountain peaks are covered with snow.,The cat is sleeping on the couch.,1
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+The dog is barking at the stranger.,It is raining heavily outside.,0
+The river flows gently through the valley.,The coffee tastes bitter today.,1
+Birds are chirping in the morning.,The dog is barking at the stranger.,0
+The room is filled with laughter and joy.,Children are playing in the park.,0
+The sky is blue.,The sun is shining brightly.,1
+Birds are chirping in the morning.,The sun is shining brightly.,0
+Leaves are falling from the trees.,The coffee tastes bitter today.,0
+A train is passing through the station.,Cars are honking on the busy street.,0
+The dog is barking at the stranger.,The river flows gently through the valley.,1
+It is raining heavily outside.,The room is filled with laughter and joy.,0
+The cat is sleeping on the couch.,A train is passing through the station.,0
+A delicious aroma fills the kitchen.,The coffee tastes bitter today.,0
+The mountain peaks are covered with snow.,Birds are chirping in the morning.,0
+The river flows gently through the valley.,The room is filled with laughter and joy.,1
+Leaves are falling from the trees.,A train is passing through the station.,0
+The room is filled with laughter and joy.,The coffee tastes bitter today.,1
+The coffee tastes bitter today.,It is raining heavily outside.,0
+The coffee tastes bitter today.,A train is passing through the station.,0
+The sun is shining brightly.,The room is filled with laughter and joy.,1
+It is raining heavily outside.,Children are playing in the park.,0
+The dog is barking at the stranger.,The sun is shining brightly.,1
+The dog is barking at the stranger.,It is raining heavily outside.,0
+Leaves are falling from the trees.,The sky is blue.,0
+Leaves are falling from the trees.,A train is passing through the station.,0
+The dog is barking at the stranger.,Birds are chirping in the morning.,0
+Cars are honking on the busy street.,The cat is sleeping on the couch.,0
+A delicious aroma fills the kitchen.,The room is filled with laughter and joy.,0
+The sky is blue.,A train is passing through the station.,0
+Cars are honking on the busy street.,The sky is blue.,0
+The room is filled with laughter and joy.,The sun is shining brightly.,1
+The dog is barking at the stranger.,The sun is shining brightly.,1
+The mountain peaks are covered with snow.,The room is filled with laughter and joy.,1
+The river flows gently through the valley.,The cat is sleeping on the couch.,1
+The cat is sleeping on the couch.,A train is passing through the station.,0
+The river flows gently through the valley.,The cat is sleeping on the couch.,1
+It is raining heavily outside.,The dog is barking at the stranger.,0
+The sky is blue.,The sun is shining brightly.,1
+It is raining heavily outside.,The sun is shining brightly.,0
+It is raining heavily outside.,Cars are honking on the busy street.,0
+Cars are honking on the busy street.,The sky is blue.,0
+Children are playing in the park.,Leaves are falling from the trees.,0
+Children are playing in the park.,It is raining heavily outside.,0
+The dog is barking at the stranger.,A train is passing through the station.,0
+A delicious aroma fills the kitchen.,The cat is sleeping on the couch.,0
+The mountain peaks are covered with snow.,Leaves are falling from the trees.,0
+The coffee tastes bitter today.,The sky is blue.,1
+The coffee tastes bitter today.,The room is filled with laughter and joy.,1
+The coffee tastes bitter today.,It is raining heavily outside.,0
+The dog is barking at the stranger.,The room is filled with laughter and joy.,1
+Children are playing in the park.,Birds are chirping in the morning.,0
+A train is passing through the station.,The room is filled with laughter and joy.,0
+A train is passing through the station.,The dog is barking at the stranger.,0
+The dog is barking at the stranger.,A train is passing through the station.,0
+The room is filled with laughter and joy.,Leaves are falling from the trees.,0
+The sky is blue.,The dog is barking at the stranger.,1
+A train is passing through the station.,The sun is shining brightly.,0
+A delicious aroma fills the kitchen.,The room is filled with laughter and joy.,0
+The mountain peaks are covered with snow.,Children are playing in the park.,0
+Leaves are falling from the trees.,The sun is shining brightly.,0
+The cat is sleeping on the couch.,The sky is blue.,1
+The sun is shining brightly.,It is raining heavily outside.,0
+The sun is shining brightly.,Birds are chirping in the morning.,0
+The mountain peaks are covered with snow.,A train is passing through the station.,0
+The coffee tastes bitter today.,The river flows gently through the valley.,1
+The coffee tastes bitter today.,The cat is sleeping on the couch.,1
+A train is passing through the station.,A delicious aroma fills the kitchen.,1
+The sky is blue.,The coffee tastes bitter today.,1
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+Leaves are falling from the trees.,The mountain peaks are covered with snow.,0
+The sun is shining brightly.,The dog is barking at the stranger.,1
+A train is passing through the station.,The river flows gently through the valley.,0
+It is raining heavily outside.,Cars are honking on the busy street.,0
+The river flows gently through the valley.,The dog is barking at the stranger.,1
+The sky is blue.,Birds are chirping in the morning.,0
+The coffee tastes bitter today.,The river flows gently through the valley.,1
+The mountain peaks are covered with snow.,Children are playing in the park.,0
+A train is passing through the station.,The coffee tastes bitter today.,0
+The river flows gently through the valley.,A train is passing through the station.,0
+Cars are honking on the busy street.,Leaves are falling from the trees.,0
+A delicious aroma fills the kitchen.,A train is passing through the station.,1
+Children are playing in the park.,The cat is sleeping on the couch.,0
+The sky is blue.,A delicious aroma fills the kitchen.,0
+The mountain peaks are covered with snow.,It is raining heavily outside.,0
+Children are playing in the park.,A train is passing through the station.,0
+The river flows gently through the valley.,Leaves are falling from the trees.,0
+The coffee tastes bitter today.,Children are playing in the park.,0
+The sky is blue.,The mountain peaks are covered with snow.,1
+A delicious aroma fills the kitchen.,The coffee tastes bitter today.,0
+Children are playing in the park.,Birds are chirping in the morning.,0
+The cat is sleeping on the couch.,A delicious aroma fills the kitchen.,0
+Leaves are falling from the trees.,Children are playing in the park.,0
+A delicious aroma fills the kitchen.,The sun is shining brightly.,0
+Leaves are falling from the trees.,The room is filled with laughter and joy.,0
+The sky is blue.,The dog is barking at the stranger.,1
+The room is filled with laughter and joy.,The coffee tastes bitter today.,1
+The room is filled with laughter and joy.,A delicious aroma fills the kitchen.,0
+A delicious aroma fills the kitchen.,The cat is sleeping on the couch.,0
+The room is filled with laughter and joy.,The coffee tastes bitter today.,1
+Birds are chirping in the morning.,The sun is shining brightly.,0
+The sun is shining brightly.,A delicious aroma fills the kitchen.,0
+It is raining heavily outside.,The sky is blue.,0
+The cat is sleeping on the couch.,Children are playing in the park.,0
+The coffee tastes bitter today.,Birds are chirping in the morning.,0
+A delicious aroma fills the kitchen.,It is raining heavily outside.,0
+The cat is sleeping on the couch.,The room is filled with laughter and joy.,1
+The dog is barking at the stranger.,It is raining heavily outside.,0
+The cat is sleeping on the couch.,The coffee tastes bitter today.,1
+The sky is blue.,Birds are chirping in the morning.,0
+A train is passing through the station.,A delicious aroma fills the kitchen.,1
+It is raining heavily outside.,The cat is sleeping on the couch.,0
+The cat is sleeping on the couch.,Birds are chirping in the morning.,0
+The sun is shining brightly.,The dog is barking at the stranger.,1
+The cat is sleeping on the couch.,The dog is barking at the stranger.,1
+The sky is blue.,The dog is barking at the stranger.,1
+Children are playing in the park.,The sun is shining brightly.,0
+The river flows gently through the valley.,It is raining heavily outside.,0
+Children are playing in the park.,Leaves are falling from the trees.,0
+Birds are chirping in the morning.,A train is passing through the station.,0
+The dog is barking at the stranger.,Children are playing in the park.,0
+The mountain peaks are covered with snow.,The sun is shining brightly.,1
+The sun is shining brightly.,A train is passing through the station.,0
+The cat is sleeping on the couch.,The room is filled with laughter and joy.,1
+The mountain peaks are covered with snow.,Children are playing in the park.,0
+The cat is sleeping on the couch.,The coffee tastes bitter today.,1
+Children are playing in the park.,A train is passing through the station.,0
+Cars are honking on the busy street.,The cat is sleeping on the couch.,0
+Leaves are falling from the trees.,The sun is shining brightly.,0
+Cars are honking on the busy street.,The sun is shining brightly.,0
+Birds are chirping in the morning.,It is raining heavily outside.,0
+It is raining heavily outside.,Birds are chirping in the morning.,0
+Birds are chirping in the morning.,Cars are honking on the busy street.,0
+Cars are honking on the busy street.,The dog is barking at the stranger.,0
+The sun is shining brightly.,Children are playing in the park.,0
+The room is filled with laughter and joy.,The mountain peaks are covered with snow.,1
+The coffee tastes bitter today.,A delicious aroma fills the kitchen.,0
+It is raining heavily outside.,The sun is shining brightly.,0
+The river flows gently through the valley.,Cars are honking on the busy street.,0
+The sun is shining brightly.,The sky is blue.,1
+The dog is barking at the stranger.,The room is filled with laughter and joy.,1
+A delicious aroma fills the kitchen.,A train is passing through the station.,1
+The sun is shining brightly.,The mountain peaks are covered with snow.,1
+The river flows gently through the valley.,Birds are chirping in the morning.,0
+The sky is blue.,The dog is barking at the stranger.,1
+The sun is shining brightly.,The sky is blue.,1
+A train is passing through the station.,The room is filled with laughter and joy.,0
+Children are playing in the park.,A delicious aroma fills the kitchen.,0
+Cars are honking on the busy street.,A train is passing through the station.,0
+It is raining heavily outside.,Cars are honking on the busy street.,0
+Leaves are falling from the trees.,The coffee tastes bitter today.,0
+The cat is sleeping on the couch.,A train is passing through the station.,0
+The dog is barking at the stranger.,Birds are chirping in the morning.,0
+The river flows gently through the valley.,The room is filled with laughter and joy.,1
+A train is passing through the station.,Children are playing in the park.,0
+The coffee tastes bitter today.,The sky is blue.,1
+The sky is blue.,The sun is shining brightly.,1
+The sky is blue.,The mountain peaks are covered with snow.,1
+The dog is barking at the stranger.,The room is filled with laughter and joy.,1
+The room is filled with laughter and joy.,A train is passing through the station.,0
+It is raining heavily outside.,The coffee tastes bitter today.,0
+Birds are chirping in the morning.,The sky is blue.,0
+The room is filled with laughter and joy.,The coffee tastes bitter today.,1
+A train is passing through the station.,The sky is blue.,0
+It is raining heavily outside.,The river flows gently through the valley.,0
+It is raining heavily outside.,The river flows gently through the valley.,0
+Cars are honking on the busy street.,A train is passing through the station.,0
+The cat is sleeping on the couch.,Leaves are falling from the trees.,0
+Leaves are falling from the trees.,The room is filled with laughter and joy.,0
+Leaves are falling from the trees.,A train is passing through the station.,0
+Birds are chirping in the morning.,The sky is blue.,0
+Children are playing in the park.,Cars are honking on the busy street.,0
+The mountain peaks are covered with snow.,The sun is shining brightly.,1
+Birds are chirping in the morning.,A delicious aroma fills the kitchen.,0
+The coffee tastes bitter today.,The river flows gently through the valley.,1
+The sun is shining brightly.,It is raining heavily outside.,0
+Children are playing in the park.,Birds are chirping in the morning.,0
+A delicious aroma fills the kitchen.,It is raining heavily outside.,0
+The sun is shining brightly.,The dog is barking at the stranger.,1
+Children are playing in the park.,The sun is shining brightly.,0
+It is raining heavily outside.,The coffee tastes bitter today.,0
+The sky is blue.,Children are playing in the park.,0
+The sun is shining brightly.,Birds are chirping in the morning.,0
+Children are playing in the park.,The dog is barking at the stranger.,0
+Leaves are falling from the trees.,A train is passing through the station.,0
+Children are playing in the park.,The coffee tastes bitter today.,0
+It is raining heavily outside.,The coffee tastes bitter today.,0
+A train is passing through the station.,Children are playing in the park.,0
+The river flows gently through the valley.,Leaves are falling from the trees.,0
+It is raining heavily outside.,Birds are chirping in the morning.,0
+A delicious aroma fills the kitchen.,Birds are chirping in the morning.,0
+A delicious aroma fills the kitchen.,The sun is shining brightly.,0
+A delicious aroma fills the kitchen.,The sun is shining brightly.,0
+The sky is blue.,It is raining heavily outside.,0
+Leaves are falling from the trees.,It is raining heavily outside.,0
+Leaves are falling from the trees.,The river flows gently through the valley.,0
+The river flows gently through the valley.,The sky is blue.,1
+A delicious aroma fills the kitchen.,The coffee tastes bitter today.,0
+The mountain peaks are covered with snow.,A train is passing through the station.,0
+Children are playing in the park.,A delicious aroma fills the kitchen.,0
+The sky is blue.,The mountain peaks are covered with snow.,1
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+It is raining heavily outside.,The mountain peaks are covered with snow.,0
+Cars are honking on the busy street.,Children are playing in the park.,0
+The room is filled with laughter and joy.,Children are playing in the park.,0
+The sky is blue.,Cars are honking on the busy street.,0
+The sky is blue.,The dog is barking at the stranger.,1
+Birds are chirping in the morning.,Children are playing in the park.,0
+The sun is shining brightly.,A train is passing through the station.,0
+The coffee tastes bitter today.,Cars are honking on the busy street.,0
+The mountain peaks are covered with snow.,A delicious aroma fills the kitchen.,0
+The coffee tastes bitter today.,The room is filled with laughter and joy.,1
+A train is passing through the station.,The river flows gently through the valley.,0
+It is raining heavily outside.,The river flows gently through the valley.,0
+A delicious aroma fills the kitchen.,The river flows gently through the valley.,0
+The mountain peaks are covered with snow.,A train is passing through the station.,0
+A train is passing through the station.,Birds are chirping in the morning.,0
+A delicious aroma fills the kitchen.,The room is filled with laughter and joy.,0
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+A train is passing through the station.,Leaves are falling from the trees.,0
+A train is passing through the station.,The dog is barking at the stranger.,0
+Cars are honking on the busy street.,A train is passing through the station.,0
+The mountain peaks are covered with snow.,Leaves are falling from the trees.,0
+The river flows gently through the valley.,Leaves are falling from the trees.,0
+A delicious aroma fills the kitchen.,It is raining heavily outside.,0
+The sun is shining brightly.,The coffee tastes bitter today.,1
+It is raining heavily outside.,The sun is shining brightly.,0
+The sky is blue.,The sun is shining brightly.,1
+A train is passing through the station.,The mountain peaks are covered with snow.,0
+A train is passing through the station.,Cars are honking on the busy street.,0
+The dog is barking at the stranger.,Birds are chirping in the morning.,0
+The room is filled with laughter and joy.,The mountain peaks are covered with snow.,1
+Leaves are falling from the trees.,The cat is sleeping on the couch.,0
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+The mountain peaks are covered with snow.,Birds are chirping in the morning.,0
+The cat is sleeping on the couch.,Leaves are falling from the trees.,0
+The sun is shining brightly.,The river flows gently through the valley.,1
+Children are playing in the park.,The mountain peaks are covered with snow.,0
+The coffee tastes bitter today.,The cat is sleeping on the couch.,1
+It is raining heavily outside.,The mountain peaks are covered with snow.,0
+The mountain peaks are covered with snow.,The dog is barking at the stranger.,1
+Leaves are falling from the trees.,The sun is shining brightly.,0
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+Birds are chirping in the morning.,The sky is blue.,0
+The coffee tastes bitter today.,It is raining heavily outside.,0
+It is raining heavily outside.,Children are playing in the park.,0
+Leaves are falling from the trees.,The mountain peaks are covered with snow.,0
+Children are playing in the park.,The room is filled with laughter and joy.,0
+The coffee tastes bitter today.,The dog is barking at the stranger.,1
+The river flows gently through the valley.,Children are playing in the park.,0
+The dog is barking at the stranger.,The cat is sleeping on the couch.,1
+The coffee tastes bitter today.,The sky is blue.,1
+The dog is barking at the stranger.,It is raining heavily outside.,0
+Birds are chirping in the morning.,The sky is blue.,0
+Birds are chirping in the morning.,The sun is shining brightly.,0
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+The cat is sleeping on the couch.,The mountain peaks are covered with snow.,1
+A train is passing through the station.,The cat is sleeping on the couch.,0
+The coffee tastes bitter today.,Children are playing in the park.,0
+Birds are chirping in the morning.,The sun is shining brightly.,0
+It is raining heavily outside.,The cat is sleeping on the couch.,0
+The dog is barking at the stranger.,Leaves are falling from the trees.,0
+Birds are chirping in the morning.,The room is filled with laughter and joy.,0
+Children are playing in the park.,The dog is barking at the stranger.,0
+Cars are honking on the busy street.,Birds are chirping in the morning.,0
+The room is filled with laughter and joy.,The river flows gently through the valley.,1
+Leaves are falling from the trees.,The dog is barking at the stranger.,0
+Children are playing in the park.,The coffee tastes bitter today.,0
+A delicious aroma fills the kitchen.,It is raining heavily outside.,0
+The room is filled with laughter and joy.,The sun is shining brightly.,1
+Leaves are falling from the trees.,A delicious aroma fills the kitchen.,0
+It is raining heavily outside.,The sun is shining brightly.,0
+A train is passing through the station.,The dog is barking at the stranger.,0
+The river flows gently through the valley.,The dog is barking at the stranger.,1
+Children are playing in the park.,The mountain peaks are covered with snow.,0
+Cars are honking on the busy street.,The dog is barking at the stranger.,0
+The river flows gently through the valley.,Children are playing in the park.,0
+The coffee tastes bitter today.,The dog is barking at the stranger.,1
+The sun is shining brightly.,The cat is sleeping on the couch.,1
+Cars are honking on the busy street.,The dog is barking at the stranger.,0
+The sky is blue.,Birds are chirping in the morning.,0
+It is raining heavily outside.,The coffee tastes bitter today.,0
+Birds are chirping in the morning.,The dog is barking at the stranger.,0
+The dog is barking at the stranger.,Children are playing in the park.,0
+Birds are chirping in the morning.,The dog is barking at the stranger.,0
+Cars are honking on the busy street.,A train is passing through the station.,0
+The sun is shining brightly.,It is raining heavily outside.,0
+The coffee tastes bitter today.,Children are playing in the park.,0
+The dog is barking at the stranger.,Birds are chirping in the morning.,0
+Children are playing in the park.,Cars are honking on the busy street.,0
+The mountain peaks are covered with snow.,The river flows gently through the valley.,1
+The mountain peaks are covered with snow.,It is raining heavily outside.,0
+The river flows gently through the valley.,A train is passing through the station.,0
+Children are playing in the park.,Birds are chirping in the morning.,0
+The room is filled with laughter and joy.,A train is passing through the station.,0
+It is raining heavily outside.,The sun is shining brightly.,0
+The mountain peaks are covered with snow.,The cat is sleeping on the couch.,1
+The sun is shining brightly.,Children are playing in the park.,0
+A delicious aroma fills the kitchen.,The cat is sleeping on the couch.,0
+Birds are chirping in the morning.,Children are playing in the park.,0
+The mountain peaks are covered with snow.,A delicious aroma fills the kitchen.,0
+Cars are honking on the busy street.,A delicious aroma fills the kitchen.,0
+A delicious aroma fills the kitchen.,It is raining heavily outside.,0
+The coffee tastes bitter today.,The river flows gently through the valley.,1
+The cat is sleeping on the couch.,Birds are chirping in the morning.,0
+The sun is shining brightly.,The river flows gently through the valley.,1
+The sky is blue.,Cars are honking on the busy street.,0
+The mountain peaks are covered with snow.,Leaves are falling from the trees.,0
+The room is filled with laughter and joy.,The cat is sleeping on the couch.,1
+A delicious aroma fills the kitchen.,The mountain peaks are covered with snow.,0
+Children are playing in the park.,The dog is barking at the stranger.,0
+It is raining heavily outside.,The dog is barking at the stranger.,0
+Leaves are falling from the trees.,Birds are chirping in the morning.,0
+The coffee tastes bitter today.,The room is filled with laughter and joy.,1
+A train is passing through the station.,The coffee tastes bitter today.,0
+A delicious aroma fills the kitchen.,The cat is sleeping on the couch.,0
+It is raining heavily outside.,The dog is barking at the stranger.,0
+A delicious aroma fills the kitchen.,The sky is blue.,0
+The mountain peaks are covered with snow.,The coffee tastes bitter today.,1
+The room is filled with laughter and joy.,A delicious aroma fills the kitchen.,0
+The sky is blue.,The sun is shining brightly.,1
+The coffee tastes bitter today.,The sun is shining brightly.,1
+Leaves are falling from the trees.,The dog is barking at the stranger.,0
+The mountain peaks are covered with snow.,The dog is barking at the stranger.,1
+The room is filled with laughter and joy.,Cars are honking on the busy street.,0
+Leaves are falling from the trees.,The sky is blue.,0
+The dog is barking at the stranger.,The river flows gently through the valley.,1
+The coffee tastes bitter today.,Children are playing in the park.,0
+A delicious aroma fills the kitchen.,The coffee tastes bitter today.,0
+A delicious aroma fills the kitchen.,The cat is sleeping on the couch.,0
+A delicious aroma fills the kitchen.,The river flows gently through the valley.,0
+A delicious aroma fills the kitchen.,A train is passing through the station.,1
+The dog is barking at the stranger.,The coffee tastes bitter today.,1
+The sun is shining brightly.,The coffee tastes bitter today.,1
+A train is passing through the station.,The dog is barking at the stranger.,0
+The mountain peaks are covered with snow.,It is raining heavily outside.,0
+A delicious aroma fills the kitchen.,The sky is blue.,0
+Leaves are falling from the trees.,The river flows gently through the valley.,0
+A delicious aroma fills the kitchen.,It is raining heavily outside.,0
+A delicious aroma fills the kitchen.,The sky is blue.,0
+Leaves are falling from the trees.,A delicious aroma fills the kitchen.,0
+The coffee tastes bitter today.,Children are playing in the park.,0
+The coffee tastes bitter today.,Leaves are falling from the trees.,0
+The sky is blue.,Birds are chirping in the morning.,0
+Children are playing in the park.,A train is passing through the station.,0
+Children are playing in the park.,The cat is sleeping on the couch.,0
+Cars are honking on the busy street.,It is raining heavily outside.,0
+The sun is shining brightly.,Leaves are falling from the trees.,0
+A delicious aroma fills the kitchen.,Birds are chirping in the morning.,0
+The mountain peaks are covered with snow.,Cars are honking on the busy street.,0
+Leaves are falling from the trees.,The sun is shining brightly.,0
+Cars are honking on the busy street.,A train is passing through the station.,0
+The room is filled with laughter and joy.,The sky is blue.,1
+The dog is barking at the stranger.,Children are playing in the park.,0
+The dog is barking at the stranger.,The sky is blue.,1
+The room is filled with laughter and joy.,The mountain peaks are covered with snow.,1
+A delicious aroma fills the kitchen.,Children are playing in the park.,0
+The room is filled with laughter and joy.,A train is passing through the station.,0
+The dog is barking at the stranger.,Cars are honking on the busy street.,0
+The sky is blue.,Cars are honking on the busy street.,0
+The cat is sleeping on the couch.,It is raining heavily outside.,0
+A train is passing through the station.,Cars are honking on the busy street.,0
+Cars are honking on the busy street.,A delicious aroma fills the kitchen.,0
+The mountain peaks are covered with snow.,The dog is barking at the stranger.,1
+A train is passing through the station.,The mountain peaks are covered with snow.,0
+The mountain peaks are covered with snow.,The coffee tastes bitter today.,1
+The coffee tastes bitter today.,The river flows gently through the valley.,1
+The sky is blue.,The sun is shining brightly.,1
+A delicious aroma fills the kitchen.,Birds are chirping in the morning.,0
+The cat is sleeping on the couch.,It is raining heavily outside.,0
+Birds are chirping in the morning.,The mountain peaks are covered with snow.,0
+Leaves are falling from the trees.,The coffee tastes bitter today.,0
+The river flows gently through the valley.,The sun is shining brightly.,1
+The mountain peaks are covered with snow.,A delicious aroma fills the kitchen.,0
+Children are playing in the park.,Leaves are falling from the trees.,0
+Leaves are falling from the trees.,The river flows gently through the valley.,0
+Children are playing in the park.,The dog is barking at the stranger.,0
+The room is filled with laughter and joy.,The mountain peaks are covered with snow.,1
+The sky is blue.,A train is passing through the station.,0
+It is raining heavily outside.,Birds are chirping in the morning.,0
+Leaves are falling from the trees.,The sun is shining brightly.,0
+The coffee tastes bitter today.,The sun is shining brightly.,1
+A delicious aroma fills the kitchen.,The mountain peaks are covered with snow.,0
+Children are playing in the park.,The cat is sleeping on the couch.,0
+Leaves are falling from the trees.,Children are playing in the park.,0
+The dog is barking at the stranger.,The sun is shining brightly.,1
+The mountain peaks are covered with snow.,The cat is sleeping on the couch.,1
+The cat is sleeping on the couch.,The room is filled with laughter and joy.,1
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+The room is filled with laughter and joy.,Cars are honking on the busy street.,0
+The sky is blue.,The coffee tastes bitter today.,1
+A train is passing through the station.,Birds are chirping in the morning.,0
+The sky is blue.,The mountain peaks are covered with snow.,1
+A train is passing through the station.,The sky is blue.,0
+A delicious aroma fills the kitchen.,Leaves are falling from the trees.,0
+A delicious aroma fills the kitchen.,The sky is blue.,0
+The coffee tastes bitter today.,The room is filled with laughter and joy.,1
+The sky is blue.,Birds are chirping in the morning.,0
+The sun is shining brightly.,The room is filled with laughter and joy.,1
+The dog is barking at the stranger.,The cat is sleeping on the couch.,1
+The coffee tastes bitter today.,The sky is blue.,1
+It is raining heavily outside.,The sky is blue.,0
+The dog is barking at the stranger.,Birds are chirping in the morning.,0
+The room is filled with laughter and joy.,The cat is sleeping on the couch.,1
+It is raining heavily outside.,Children are playing in the park.,0
+The cat is sleeping on the couch.,It is raining heavily outside.,0
+The river flows gently through the valley.,A delicious aroma fills the kitchen.,0
+The sun is shining brightly.,A delicious aroma fills the kitchen.,0
+The coffee tastes bitter today.,Children are playing in the park.,0
+Cars are honking on the busy street.,The sky is blue.,0
+A train is passing through the station.,The river flows gently through the valley.,0
+A delicious aroma fills the kitchen.,The room is filled with laughter and joy.,0
+Birds are chirping in the morning.,Children are playing in the park.,0
+Children are playing in the park.,Leaves are falling from the trees.,0
+A train is passing through the station.,The room is filled with laughter and joy.,0
+Cars are honking on the busy street.,A delicious aroma fills the kitchen.,0
+The dog is barking at the stranger.,The river flows gently through the valley.,1
+It is raining heavily outside.,The sun is shining brightly.,0
+The coffee tastes bitter today.,A train is passing through the station.,0
+Birds are chirping in the morning.,The coffee tastes bitter today.,0
+The sun is shining brightly.,A delicious aroma fills the kitchen.,0
+The coffee tastes bitter today.,The dog is barking at the stranger.,1
+The cat is sleeping on the couch.,The sun is shining brightly.,1
+The mountain peaks are covered with snow.,The room is filled with laughter and joy.,1
+The room is filled with laughter and joy.,Children are playing in the park.,0
+Leaves are falling from the trees.,The river flows gently through the valley.,0
+A train is passing through the station.,The room is filled with laughter and joy.,0
+Birds are chirping in the morning.,Children are playing in the park.,0
+Cars are honking on the busy street.,The coffee tastes bitter today.,0
+Cars are honking on the busy street.,Leaves are falling from the trees.,0
+The coffee tastes bitter today.,The room is filled with laughter and joy.,1
+The river flows gently through the valley.,The room is filled with laughter and joy.,1
+The room is filled with laughter and joy.,The sun is shining brightly.,1
+It is raining heavily outside.,The mountain peaks are covered with snow.,0
+A delicious aroma fills the kitchen.,The mountain peaks are covered with snow.,0
+The coffee tastes bitter today.,The sun is shining brightly.,1
+The dog is barking at the stranger.,Leaves are falling from the trees.,0
+It is raining heavily outside.,Leaves are falling from the trees.,0
+A delicious aroma fills the kitchen.,The dog is barking at the stranger.,0
+The dog is barking at the stranger.,The sky is blue.,1
+The sky is blue.,Cars are honking on the busy street.,0
+Children are playing in the park.,Cars are honking on the busy street.,0
+The river flows gently through the valley.,Cars are honking on the busy street.,0
+The room is filled with laughter and joy.,The mountain peaks are covered with snow.,1
+The cat is sleeping on the couch.,The coffee tastes bitter today.,1
+The river flows gently through the valley.,The room is filled with laughter and joy.,1
+A train is passing through the station.,Leaves are falling from the trees.,0
+The mountain peaks are covered with snow.,A train is passing through the station.,0
+The sun is shining brightly.,The sky is blue.,1
+The cat is sleeping on the couch.,Birds are chirping in the morning.,0
+The sky is blue.,The coffee tastes bitter today.,1
+The river flows gently through the valley.,The sun is shining brightly.,1
+The sky is blue.,Birds are chirping in the morning.,0
+The coffee tastes bitter today.,It is raining heavily outside.,0
+A delicious aroma fills the kitchen.,A train is passing through the station.,1
+Birds are chirping in the morning.,The dog is barking at the stranger.,0
+The mountain peaks are covered with snow.,The room is filled with laughter and joy.,1
+The sky is blue.,It is raining heavily outside.,0
+The coffee tastes bitter today.,The cat is sleeping on the couch.,1
+The dog is barking at the stranger.,The coffee tastes bitter today.,1
+A delicious aroma fills the kitchen.,Children are playing in the park.,0
+The dog is barking at the stranger.,Leaves are falling from the trees.,0
+Birds are chirping in the morning.,A train is passing through the station.,0
+A delicious aroma fills the kitchen.,The coffee tastes bitter today.,0
+The sky is blue.,The mountain peaks are covered with snow.,1
+A train is passing through the station.,The dog is barking at the stranger.,0
+The coffee tastes bitter today.,The sun is shining brightly.,1
+The dog is barking at the stranger.,Children are playing in the park.,0
+The cat is sleeping on the couch.,The dog is barking at the stranger.,1
+The coffee tastes bitter today.,The dog is barking at the stranger.,1
+It is raining heavily outside.,The cat is sleeping on the couch.,0
+Leaves are falling from the trees.,Birds are chirping in the morning.,0
+Children are playing in the park.,The cat is sleeping on the couch.,0
+It is raining heavily outside.,Children are playing in the park.,0
+The room is filled with laughter and joy.,The coffee tastes bitter today.,1
+The sky is blue.,It is raining heavily outside.,0
+A train is passing through the station.,The mountain peaks are covered with snow.,0
+The dog is barking at the stranger.,The coffee tastes bitter today.,1
+A delicious aroma fills the kitchen.,Cars are honking on the busy street.,0
+The room is filled with laughter and joy.,A delicious aroma fills the kitchen.,0
+The room is filled with laughter and joy.,A delicious aroma fills the kitchen.,0
+Children are playing in the park.,The cat is sleeping on the couch.,0
+The sun is shining brightly.,Birds are chirping in the morning.,0
+It is raining heavily outside.,Leaves are falling from the trees.,0
+The sky is blue.,Birds are chirping in the morning.,0
+The coffee tastes bitter today.,The dog is barking at the stranger.,1
+The coffee tastes bitter today.,The river flows gently through the valley.,1
+A delicious aroma fills the kitchen.,The room is filled with laughter and joy.,0
+Cars are honking on the busy street.,The cat is sleeping on the couch.,0
+Birds are chirping in the morning.,The cat is sleeping on the couch.,0
