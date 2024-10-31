@@ -4,5 +4,7 @@
 
 Format: comma-separated values
 
-Token column: Token
-Entity column: Entity
+Sentence column (untokenized): Sentence
+Label column: Label
+
+This dataset was generated manually.
