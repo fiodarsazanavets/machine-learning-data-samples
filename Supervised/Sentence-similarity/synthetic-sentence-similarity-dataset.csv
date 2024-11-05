@@ -1,0 +1,362 @@
+sentence1,sentence2,similarity_score
+The sky is blue.,The sky is clear and blue.,0.95
+I love playing football.,I enjoy playing soccer.,0.9
+The cat sat on the mat.,The dog lay on the rug.,0.8
+She is reading a book.,She is eating an apple.,0.2
+They went to the cinema last night.,They visited the movie theater yesterday evening.,0.95
+He likes to swim in the ocean.,He enjoys swimming in the sea.,0.9
+It's raining heavily outside.,The weather is sunny and bright.,0.1
+Can you help me with this problem?,Could you assist me with this issue?,0.95
+The car is new and fast.,The vehicle is old and slow.,0.2
+Let's meet at the cafe at noon.,Shall we get together at the coffee shop at 12 pm?,0.85
+The sun is shining brightly.,It's a sunny day.,0.9
+He bought a new laptop yesterday.,"Yesterday, he purchased a brand new notebook.",0.85
+She enjoys painting landscapes.,She loves creating landscape artworks.,0.95
+The restaurant was very crowded.,There were many people at the eatery.,0.8
+I can't find my wallet.,My purse is missing.,0.7
+He is fluent in Spanish.,He speaks Spanish very well.,0.9
+They are watching a movie.,They are seeing a film.,0.95
+The flowers are blooming in the garden.,The garden is full of blooming flowers.,0.9
+She is wearing a red dress.,She has on a crimson gown.,0.85
+I need to charge my phone.,My mobile needs to be recharged.,0.9
+The dog barked loudly.,The canine made a loud noise.,0.8
+They are planning to build a house.,They intend to construct a home.,0.9
+He travels by train every day.,He commutes daily by rail.,0.85
+The meeting was postponed to next week.,The conference was rescheduled for the following week.,0.9
+She has a fear of heights.,She is afraid of high places.,0.95
+I prefer tea over coffee.,I like tea more than coffee.,0.9
+The book is on the table.,There is a book placed on the desk.,0.8
+He didn't arrive on time.,He was late.,0.7
+She is allergic to peanuts.,She cannot eat peanuts due to an allergy.,0.9
+They moved to a new apartment.,They relocated to a different flat.,0.85
+The weather forecast predicts rain.,It is expected to rain according to the weather report.,0.9
+He works as a software engineer.,He is employed as a programmer.,0.85
+I love listening to classical music.,Classical tunes are my favorite to listen to.,0.9
+The child is drawing with crayons.,The kid is coloring using crayons.,0.9
+She forgot to lock the door.,She didn't remember to secure the entrance.,0.85
+They went hiking in the mountains.,They trekked through the hills.,0.8
+He is cooking dinner tonight.,He is preparing the evening meal today.,0.9
+The airplane took off smoothly.,The flight departed without issues.,0.85
+I need to renew my passport.,My passport requires renewal.,0.9
+She teaches mathematics at the university.,She is a math professor at the college.,0.9
+The cat is chasing a mouse.,The feline is pursuing a rodent.,0.85
+They celebrated their anniversary yesterday.,They marked their yearly milestone yesterday.,0.8
+He reads the newspaper every morning.,"Each morning, he goes through the news.",0.8
+I spilled coffee on my shirt.,I accidentally poured coffee over my top.,0.85
+She is learning to play the piano.,She is taking piano lessons.,0.9
+The store is open from 9 am to 5 pm.,The shop operates between 9 in the morning and 5 in the evening.,0.9
+He has a collection of rare coins.,He collects uncommon currency pieces.,0.85
+They adopted a puppy from the shelter.,They took in a young dog from the animal refuge.,0.9
+I lost my glasses somewhere.,I can't find my spectacles anywhere.,0.9
+She prefers walking to driving.,She likes to walk rather than drive.,0.85
+The conference starts next Monday.,The symposium begins on the coming Monday.,0.9
+He was promoted to manager.,He advanced to the position of manager.,0.9
+They are renovating their kitchen.,They are updating their cooking area.,0.85
+I enjoy watching the sunset.,I love observing the sun go down.,0.9
+She bought a bouquet of roses.,She purchased a bunch of roses.,0.95
+The train was delayed due to snow.,Snow caused the train to be late.,0.85
+He is writing a novel.,He is composing a book.,0.8
+They are studying for the final exam.,They are preparing for the last test.,0.9
+I have an appointment with the dentist.,I am scheduled to see the dentist.,0.9
+She is fluent in three languages.,She can speak three languages fluently.,0.95
+The park is crowded on weekends.,Many people visit the park during weekends.,0.8
+He forgot his umbrella at home.,He left his umbrella at the house.,0.9
+They are discussing the new project.,They are talking about the latest assignment.,0.85
+I need to replace the batteries.,I have to change the batteries.,0.9
+She enjoys watching horror movies.,She likes viewing scary films.,0.9
+The chef is preparing a special dish.,The cook is making a unique meal.,0.85
+He has a meeting with the client.,He is meeting the customer.,0.8
+They are painting the living room.,They are applying paint to the lounge.,0.85
+I am waiting for the bus.,I am standing by for the bus to arrive.,0.9
+She is looking for a new job.,She is searching for new employment.,0.95
+The museum is closed on Mondays.,The gallery doesn't open on Mondays.,0.9
+He plays tennis every weekend.,He engages in tennis each weekend.,0.85
+They attended the concert last night.,They went to the music event yesterday evening.,0.9
+I need to water the plants.,My plants require watering.,0.9
+She is wearing a pair of earrings.,She has earrings on.,0.8
+The movie was extremely entertaining.,The film was very enjoyable.,0.9
+He always forgets his keys.,He habitually leaves his keys behind.,0.85
+They are building a new bridge.,A new bridge is under construction by them.,0.9
+I like to drink coffee in the morning.,I prefer having coffee during the morning.,0.9
+She has a meeting at 2 pm.,Her appointment is scheduled for 2 pm.,0.9
+The dog loves playing fetch.,The canine enjoys retrieving objects.,0.85
+He is saving money to buy a car.,He is accumulating funds to purchase a vehicle.,0.9
+They visited the art gallery.,They toured the art museum.,0.8
+I need to finish this report by Friday.,I must complete this document before Friday.,0.9
+She is allergic to cat hair.,Cat fur causes her allergic reactions.,0.85
+The students are working on a group project.,The pupils are collaborating on a project.,0.9
+He enjoys reading science fiction novels.,He likes to read sci-fi books.,0.9
+They are organizing a surprise party.,They are planning a secret celebration.,0.85
+I lost track of time.,I didn't realize how late it was.,0.8
+She is training for a marathon.,She is preparing to run a marathon.,0.9
+The bakery sells fresh bread daily.,Fresh bread is available at the bakery every day.,0.95
+He is watching a football match.,He is viewing a soccer game.,0.9
+They are learning how to code.,They are studying programming.,0.85
+I need to cancel my subscription.,I have to terminate my membership.,0.9
+She sings beautifully.,Her singing is beautiful.,0.9
+The library is quiet and peaceful.,The library offers a calm atmosphere.,0.8
+He is fixing his bicycle.,He is repairing his bike.,0.95
+They are camping in the forest.,They are spending time outdoors in the woods.,0.85
+I forgot to send the email.,I didn't remember to email.,0.8
+She is baking chocolate cookies.,She is making chocolate biscuits.,0.9
+The car needs an oil change.,The vehicle requires an oil replacement.,0.85
+He is taking a photography class.,He is enrolled in a course on photography.,0.9
+They are exploring the city.,They are discovering the urban area.,0.8
+I have to walk the dog.,I need to take the dog for a walk.,0.95
+She likes to swim in the lake.,She enjoys swimming in the lake.,0.95
+The coffee is too hot to drink.,The beverage is too warm to consume.,0.85
+He is designing a new website.,He is creating a new webpage.,0.9
+They are enjoying their vacation.,They are having a good time on their holiday.,0.9
+I am looking forward to the weekend.,I can't wait for the weekend.,0.85
+She bought a ticket to the concert.,She purchased admission to the show.,0.9
+The baby is sleeping peacefully.,The infant is resting quietly.,0.95
+He is cleaning the windows.,He is washing the glass panes.,0.85
+They are attending a wedding ceremony.,They are going to a marriage event.,0.8
+I need to pack my luggage.,I have to prepare my bags.,0.9
+She is practicing yoga every morning.,She does yoga exercises each morning.,0.9
+The computer is running slowly.,The PC is operating at a slow speed.,0.85
+He forgot to pay the bills.,He neglected to settle the invoices.,0.9
+They are harvesting apples from the orchard.,They are picking apples from the grove.,0.9
+I enjoy visiting museums.,I like going to galleries.,0.85
+She is decorating her new apartment.,She is embellishing her new flat.,0.9
+The train station is crowded.,There are many people at the railway station.,0.8
+He is learning to play chess.,He is studying how to play chess.,0.95
+They are rehearsing for the play.,They are practicing for the theatrical performance.,0.9
+I spilled juice on the carpet.,I accidentally dropped juice on the rug.,0.85
+She adopted a kitten.,She took in a baby cat.,0.9
+The sun rises in the east.,The sun comes up from the east.,0.95
+He is assembling a new desk.,He is putting together a new table.,0.85
+They are singing in the choir.,They are vocalizing in the chorus.,0.9
+I need to renew my driver's license.,My driving permit needs renewal.,0.9
+She is knitting a scarf.,She is crafting a scarf with yarn.,0.85
+The sun is shining brightly.,I forgot my umbrella at home.,0.1
+He bought a new laptop yesterday.,She is cooking dinner tonight.,0
+She enjoys painting landscapes.,They are playing football in the park.,0.1
+The restaurant was very crowded.,The cat slept under the bed.,0
+I can't find my wallet.,It's raining heavily outside.,0
+He is fluent in Spanish.,The book is on the table.,0.1
+They are watching a movie.,I need to water the plants.,0
+The flowers are blooming in the garden.,He is fixing his bicycle.,0.1
+She is wearing a red dress.,They are hiking in the mountains.,0
+I need to charge my phone.,The dog barked loudly.,0
+The dog barked loudly.,She is baking chocolate cookies.,0
+They are planning to build a house.,I lost my glasses somewhere.,0.1
+He travels by train every day.,The sun rises in the east.,0.1
+The meeting was postponed to next week.,She enjoys watching horror movies.,0
+She has a fear of heights.,They are exploring the city.,0.1
+I prefer tea over coffee.,He is watching a football match.,0.1
+The book is on the table.,She adopted a kitten.,0
+He didn't arrive on time.,The coffee is too hot to drink.,0
+She is allergic to peanuts.,They are renovating their kitchen.,0
+They moved to a new apartment.,He is learning to play chess.,0.1
+The weather forecast predicts rain.,She is practicing yoga every morning.,0
+He works as a software engineer.,I need to pack my luggage.,0
+I love listening to classical music.,The car needs an oil change.,0
+The child is drawing with crayons.,They are attending a wedding ceremony.,0
+She forgot to lock the door.,He is cleaning the windows.,0.1
+They went hiking in the mountains.,I need to replace the batteries.,0
+He is cooking dinner tonight.,She is knitting a scarf.,0
+The airplane took off smoothly.,The baby is sleeping peacefully.,0
+I need to renew my passport.,They are building a new bridge.,0
+She teaches mathematics at the university.,I enjoy visiting museums.,0.1
+The cat is chasing a mouse.,He forgot his umbrella at home.,0.1
+They celebrated their anniversary yesterday.,She is looking for a new job.,0
+He reads the newspaper every morning.,They are organizing a surprise party.,0
+I spilled coffee on my shirt.,She is training for a marathon.,0
+She is learning to play the piano.,They are harvesting apples from the orchard.,0
+The store is open from 9 am to 5 pm.,He is assembling a new desk.,0
+He has a collection of rare coins.,The dog loves playing fetch.,0.1
+They adopted a puppy from the shelter.,She is wearing a pair of earrings.,0
+I lost my glasses somewhere.,They are studying for the final exam.,0
+She prefers walking to driving.,He enjoys reading science fiction novels.,0.1
+The conference starts next Monday.,I need to finish this report by Friday.,0
+He was promoted to manager.,The coffee is too hot to drink.,0
+They are renovating their kitchen.,She enjoys watching horror movies.,0.1
+I enjoy watching the sunset.,He is fixing his bicycle.,0.1
+She bought a bouquet of roses.,They are camping in the forest.,0
+The train was delayed due to snow.,I forgot to send the email.,0.1
+He is writing a novel.,She is baking chocolate cookies.,0
+They are studying for the final exam.,The airplane took off smoothly.,0
+I have an appointment with the dentist.,He is taking a photography class.,0
+She is fluent in three languages.,They are exploring the city.,0.1
+The park is crowded on weekends.,I have to walk the dog.,0
+He forgot his umbrella at home.,She likes to swim in the lake.,0.1
+They are discussing the new project.,He is designing a new website.,0.1
+I need to replace the batteries.,They are enjoying their vacation.,0
+She enjoys watching horror movies.,I am looking forward to the weekend.,0.1
+The chef is preparing a special dish.,She bought a ticket to the concert.,0
+He has a meeting with the client.,The baby is sleeping peacefully.,0
+They are painting the living room.,He is cleaning the windows.,0.1
+I am waiting for the bus.,They are attending a wedding ceremony.,0
+She is looking for a new job.,I need to pack my luggage.,0.1
+The museum is closed on Mondays.,She is practicing yoga every morning.,0
+He plays tennis every weekend.,The computer is running slowly.,0
+They attended the concert last night.,He forgot to pay the bills.,0
+I need to water the plants.,They are harvesting apples from the orchard.,0.1
+She is wearing a pair of earrings.,I enjoy visiting museums.,0.1
+The movie was extremely entertaining.,She is decorating her new apartment.,0
+He always forgets his keys.,The train station is crowded.,0
+They are building a new bridge.,He is learning to play chess.,0.1
+I like to drink coffee in the morning.,They are rehearsing for the play.,0
+She has a meeting at 2 pm.,I spilled juice on the carpet.,0
+The dog loves playing fetch.,She adopted a kitten.,0.1
+He is saving money to buy a car.,The sun rises in the east.,0
+They visited the art gallery.,He is assembling a new desk.,0
+I need to finish this report by Friday.,They are singing in the choir.,0
+She is allergic to cat hair.,I need to renew my driver's license.,0.1
+The students are working on a group project.,She is knitting a scarf.,0
+He enjoys reading science fiction novels.,The sun is shining brightly.,0.1
+They are organizing a surprise party.,He bought a new laptop yesterday.,0.1
+I lost track of time.,She enjoys painting landscapes.,0
+She is training for a marathon.,The restaurant was very crowded.,0
+The bakery sells fresh bread daily.,I can't find my wallet.,0
+He is watching a football match.,He is fluent in Spanish.,0.1
+They are learning how to code.,They are watching a movie.,0.1
+I need to cancel my subscription.,The flowers are blooming in the garden.,0
+She sings beautifully.,She is wearing a red dress.,0.1
+The library is quiet and peaceful.,I need to charge my phone.,0
+He is fixing his bicycle.,The dog barked loudly.,0.1
+They are camping in the forest.,They are planning to build a house.,0.1
+I forgot to send the email.,He travels by train every day.,0
+She is baking chocolate cookies.,The meeting was postponed to next week.,0
+The car needs an oil change.,She has a fear of heights.,0
+He is taking a photography class.,I prefer tea over coffee.,0.1
+They are exploring the city.,The book is on the table.,0
+I have to walk the dog.,He didn't arrive on time.,0
+She likes to swim in the lake.,She is allergic to peanuts.,0.1
+The coffee is too hot to drink.,They moved to a new apartment.,0
+He is designing a new website.,The weather forecast predicts rain.,0
+They are enjoying their vacation.,He works as a software engineer.,0
+I am looking forward to the weekend.,I love listening to classical music.,0.1
+She bought a ticket to the concert.,The child is drawing with crayons.,0
+The baby is sleeping peacefully.,She forgot to lock the door.,0
+He is cleaning the windows.,They went hiking in the mountains.,0.1
+They are attending a wedding ceremony.,He is cooking dinner tonight.,0
+I need to pack my luggage.,The airplane took off smoothly.,0
+She is practicing yoga every morning.,I need to renew my passport.,0
+The computer is running slowly.,She teaches mathematics at the university.,0
+He forgot to pay the bills.,The cat is chasing a mouse.,0.1
+They are harvesting apples from the orchard.,They celebrated their anniversary yesterday.,0.1
+I enjoy visiting museums.,He reads the newspaper every morning.,0.1
+She is decorating her new apartment.,I spilled coffee on my shirt.,0
+The train station is crowded.,She is learning to play the piano.,0.1
+He is learning to play chess.,The store is open from 9 am to 5 pm.,0
+They are rehearsing for the play.,He has a collection of rare coins.,0
+I spilled juice on the carpet.,They adopted a puppy from the shelter.,0.1
+She adopted a kitten.,I lost my glasses somewhere.,0.1
+The sun rises in the east.,She prefers walking to driving.,0
+He is assembling a new desk.,The conference starts next Monday.,0
+They are singing in the choir.,He was promoted to manager.,0
+I need to renew my driver's license.,They are renovating their kitchen.,0.1
+She is knitting a scarf.,I enjoy watching the sunset.,0
+The sky is clear today.,There are no clouds in the sky today.,0.9
+He enjoys playing basketball.,She dislikes sports.,0.1
+The book was fascinating.,The movie adaptation was boring.,0.3
+She is a talented musician.,She plays the piano beautifully.,0.8
+I need to call my mother.,I should phone my mom.,0.95
+They are going to the beach.,They are heading to the mountains.,0.2
+He has a black cat.,She owns a white dog.,0.2
+The weather is cold and snowy.,It's warm and sunny outside.,0
+I love Italian cuisine.,I enjoy eating pasta and pizza.,0.85
+She forgot her password again.,She remembered her login details.,0.2
+He drives a red sports car.,He owns a fast red automobile.,0.9
+They are studying French.,They are learning a new language.,0.7
+I bought a new pair of shoes.,I purchased fresh vegetables.,0.1
+She reads a lot of books.,She is an avid reader.,0.95
+The coffee tastes bitter.,The tea is sweet.,0.2
+He is late for the meeting.,He arrived early for the appointment.,0.1
+They visited the zoo yesterday.,They saw animals at the zoo yesterday.,0.9
+I need to finish my homework.,I have to complete my assignments.,0.9
+She is afraid of spiders.,She loves insects.,0.1
+The cake is delicious.,The dessert tastes great.,0.85
+He works out at the gym daily.,He exercises every day.,0.9
+They are watching a comedy show.,They are attending a funeral.,0
+I have an exam tomorrow.,I need to study tonight.,0.8
+She wears glasses.,She has poor eyesight.,0.75
+The phone is ringing.,The telephone is making noise.,0.85
+He is allergic to pollen.,He sneezes during spring.,0.8
+They are painting the fence.,They are cleaning the house.,0.3
+I lost my wallet.,I can't find my money holder.,0.9
+She enjoys hiking in nature.,She likes walking in the wilderness.,0.85
+The car won't start.,The vehicle refuses to ignite.,0.9
+He is a professional photographer.,He takes pictures for a living.,0.95
+They are arguing loudly.,They are having a quiet conversation.,0.1
+I prefer cats over dogs.,I like felines more than canines.,0.95
+She is baking bread.,She is cooking pasta.,0.4
+The sun sets in the west.,The sun rises in the east.,0.2
+He is wearing a blue shirt.,He has on a green jacket.,0.3
+They booked a hotel room.,They reserved accommodation.,0.85
+I am learning to drive.,I am taking driving lessons.,0.9
+She spilled wine on the carpet.,She stained the rug with red liquid.,0.8
+The concert was amazing.,The performance was incredible.,0.9
+He missed the bus.,He didn't catch the bus.,0.9
+They are planting flowers.,They are gardening.,0.8
+I need a haircut.,My hair is too long.,0.85
+She speaks fluent German.,She is proficient in German.,0.95
+The food was expensive.,The meal cost a lot.,0.9
+He is listening to music.,He is wearing headphones.,0.7
+They are building a snowman.,They are making a figure out of snow.,0.9
+I have a toothache.,My tooth hurts.,0.9
+She wants to adopt a child.,She is considering parenthood.,0.7
+The plane landed safely.,The aircraft touched down without issues.,0.9
+He is afraid of flying.,He fears air travel.,0.85
+They are celebrating their victory.,They are rejoicing over their win.,0.95
+I forgot to lock the door.,I left the door unlocked.,0.9
+She teaches English online.,She instructs students over the internet.,0.8
+The milk has gone bad.,The milk is spoiled.,0.95
+He is mowing the lawn.,He is cutting the grass.,0.95
+They are fishing by the lake.,They are catching fish at the lake.,0.9
+I dropped my phone in water.,My phone fell into the water.,0.9
+She is knitting a sweater.,She is crafting a woolen garment.,0.8
+The store is having a sale.,The shop offers discounts.,0.85
+He is a skilled carpenter.,He is adept at woodworking.,0.9
+They are attending a seminar.,They are participating in a workshop.,0.8
+I need to wash my car.,My vehicle needs cleaning.,0.9
+She wrote a letter to her friend.,She sent a note to her buddy.,0.8
+The lights went out.,The power failed.,0.7
+He is allergic to nuts.,He cannot eat almonds or peanuts.,0.85
+They are playing chess.,They are engaged in a board game.,0.8
+I overslept this morning.,I woke up late today.,0.9
+She has a beautiful voice.,She sings wonderfully.,0.85
+The baby is crying.,The infant is wailing.,0.9
+He is watching the news.,He is viewing current events on TV.,0.85
+They are waiting in line.,They are standing in a queue.,0.95
+I need to buy stamps.,I have to purchase postage.,0.9
+She is afraid of the dark.,She fears being without light.,0.85
+The laptop battery is dead.,The portable computer won't turn on.,0.8
+He is eating an apple.,He is consuming a fruit.,0.85
+They are playing cards.,They are engaged in a card game.,0.9
+I have a meeting at noon.,I am scheduled to meet at 12 pm.,0.95
+She is watching a horror movie.,She is viewing a scary film.,0.9
+The dog chased the squirrel.,The canine pursued the rodent.,0.85
+He forgot his anniversary.,He didn't remember his special date.,0.9
+They are riding bicycles.,They are cycling.,0.95
+I need to print this document.,I have to produce a hard copy of this file.,0.85
+She loves chocolate ice cream.,Her favorite dessert is chocolate ice cream.,0.9
+The clock is broken.,The timepiece doesn't work.,0.85
+He is learning to swim.,He is taking swimming lessons.,0.9
+They are moving to a new city.,They are relocating.,0.8
+I am allergic to shellfish.,I cannot eat seafood like shrimp.,0.85
+She is a famous actress.,She is well-known in the film industry.,0.9
+The train is arriving now.,The locomotive is pulling into the station.,0.85
+He spilled coffee on his shirt.,He stained his clothing with coffee.,0.9
+They are watching fireworks.,They are observing pyrotechnics.,0.85
+I lost my voice.,I can't speak.,0.9
+She is practicing the violin.,She is playing her string instrument.,0.85
+The house is haunted.,There are ghosts in the home.,0.8
+He enjoys cooking Italian food.,He likes preparing dishes from Italy.,0.9
+They are writing a report.,They are composing a document.,0.85
+I need to get my car repaired.,My vehicle requires fixing.,0.9
+She is attending a conference.,She is going to a professional meeting.,0.85
+The river is flooding.,The water level is rising dangerously.,0.8
+He bought tickets to the game.,He purchased admission to the match.,0.9
+They are rehearsing their lines.,They are practicing for the play.,0.85
+I forgot my keys inside.,I left my keys in the house.,0.9
+She is planting vegetables.,She is starting a garden.,0.8
+The wifi is not working.,The internet connection is down.,0.85
+He is writing in his journal.,He is keeping a diary.,0.9
+They are looking at the stars.,They are stargazing.,0.95
+I need to charge my laptop.,My computer's battery is low.,0.9
+She is feeding the birds.,She is giving food to the birds.,0.95
+The meeting was canceled.,The appointment was called off.,0.9
+He is building a model airplane.,He is assembling a miniature aircraft.,0.85
